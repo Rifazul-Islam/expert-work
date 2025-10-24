@@ -35,7 +35,7 @@ export default function Banner() {
                     alt="Gemini"
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
                   />
-                  <div className=" w-full -mt-14  ">
+                  <div className=" w-full lg:-mt-14 -mt-4 ">
                     <Link
                       className=""
                       target="blank"
