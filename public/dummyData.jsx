@@ -1,8 +1,8 @@
 export const blogs = [
   {
     id: 1,
-    image: "/blog-images/blogs1.png",
-    para: "Create a photo-realistic 8K full-body portrait of a confident man leaning casually against a clean light-gray wall, hands in his pockets and one leg crossed over the other, exuding a relaxed yet self-assured presence. The lighting should be bright, even, and professional, reflecting a clean modern studio environment. On the wall beside him, feature a bold black-and-white stylized vector portrait of the same man with sleek geometric shapes and modern design elements. Beneath the vector artwork, place the text 'Expert Work' in large, clean bold letters, and below that, write “Facebook: expertWork” in a smaller minimalist font. The overall aesthetic should be modern, minimalistic, and premium — ideal for personal branding with a creative, tech-inspired edge.",
+    image: "/blog-images/blog-1.png",
+    para: "Create a photo-realistic 8K full-body portrait of a confident man leaning casually against a clean light-gray wall, hands in his pockets and one leg crossed over the other, exuding a relaxed yet self-assured presence. The lighting should be bright, even, and professional, reflecting a clean modern studio environment. On the wall beside him, feature a bold black-and-white stylized vector portrait of the same man with sleek geometric shapes and modern design elements. Beneath the vector artwork, place the text ' Prompt Expert' in large, clean bold letters, and below that, write “Facebook: Prompt-Expert” in a smaller minimalist font. The overall aesthetic should be modern, minimalistic, and premium — ideal for personal branding with a creative, tech-inspired edge.",
   },
   {
     id: 2,
