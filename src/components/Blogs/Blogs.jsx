@@ -34,6 +34,12 @@ function Blogs() {
       image: "/blog-images/Gemini_Generated.png",
       para: " A photorealistic, sun-drenched lifestyle photograph of a stylish handsome and athletic young man, 24 year old, in last 24s with stylish brown hair and well groomed beard. He is captured mid-action in a crystal-clear swimming pool, looking intensely andconfidently at the camera as he runs a hand through his hair.Dynamic splashes of water freeze in the air around him, glistening under the bright direct sunlight",
     },
+
+    {
+      id: 7,
+      image: "/blog-images/blog-7.png",
+      para: "Create a photo-realistic, A young man stands confidently in the middle of a misty forest pathway. He wears a dark shawl with fringes over a gray sweater, paired with black jeans and white sneakers. His hands are in his pockets, giving a calm and composed look. The tall trees on both sides form a tunnel-like depth, covered in soft morning fog. The atmosphere feels peaceful, cinematic, and slightly mysterious with teal-green tones and diffused light filtering through the trees. The photo is sharp and detailed, with a smooth bokeh background and natural posture, captured with a 50mm f/1.8 lens, full-body portrait, 8K resolution. Here is the picture based on that description.",
+    },
   ];
 
   const [copiedIndex, setCopiedIndex] = useState(null);
@@ -41,7 +47,7 @@ function Blogs() {
     try {
       await navigator.clipboard.writeText(text);
       setCopiedIndex(index);
-      setTimeout(() => setCopiedIndex(null), 2000);
+      setTimeout(() => setCopiedIndex(null), 500);
     } catch (err) {
       console.error("Copy failed: ", err);
     }
