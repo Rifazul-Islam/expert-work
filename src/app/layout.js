@@ -15,8 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Expert Work",
-  description: "Google Gemini - Best Professional Ai Photo Editors",
+  title: "Prompt Expert",
+  description:
+    "Google Gemini - Best Professional Ai Photo Editors,Advanced intelligence at your fingertips, empowering you to create stunning visuals effortlessly with next-generation AI precision.",
 };
 
 export default function RootLayout({ children }) {
