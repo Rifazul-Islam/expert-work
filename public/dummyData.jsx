@@ -12,13 +12,13 @@ export const blogs = [
 
   {
     id: 3,
-    image: "/blog-images/blog-3.png",
-    para: "Create a photo-realistic, Indian man standing on a wet road in light rain, holding a transparent umbrella in his right hand. He is wearing a white, black checked shirt, sleeves rolled up, black slim-fit jeans, and white chunky sneakers. His head is slightly lowered, smiling subtly. His left hand is in his pocket with a white watch, and his right leg is in a playful kicking pose, best to move forward. The road is shiny in the rain, the green trees in the background are blurred.",
+    image: "/blog-images/blog-13.png",
+    para: "Keep my exact face and body features from the given picture. A hyper-realistic portrait of me sitting at a wooden table, leaning slightly forward with one arm resting on the table. I am wearing a black denim jacket with rolled-up sleeves, and inside the jacket, a white t-shirt. On my wrist, I have a smartwatch with a dark green strap. My head is tilted slightly, with one hand resting casually and comfortably on my forehead. My hair is styled, and I have a soft, confidentsmile while looking directly at the camera. The background is softly blurred, filled with natural greenery, creating a bright and lively atmosphere. Ultra HD, 8K, cinematic, professional photography style.",
   },
   {
     id: 4,
     image: "/blog-images/blog-4.png",
-    para: " A clear, medium-sized image shows a man sitting comfortably on a white horse, one hand on the handlebars and leaning back slightly, looking up at the sky with a relaxed, contented smile, over a mountainside of grass swaying in the wind under a cloudy sky. His hair is gently tousled in the wind. He is wearing a textured, light gray knit sweater and light-colored trousers, the fabric naturally pleated. The background is softly blurred, showing the muted greens and browns of distant mountains and a soft, cloudy sky, emphasizing him in a moment of tranquility. The foreground is filled with tall, dry grass and reeds, blurred to create depth. The overall mood is one of peaceful reflection, freedom, and quiet contentment.",
+    para: " Create a photo-realistic, medium-sized image shows a man sitting comfortably on a white horse, one hand on the handlebars and leaning back slightly, looking up at the sky with a relaxed, contented smile, over a mountainside of grass swaying in the wind under a cloudy sky. His hair is gently tousled in the wind. He is wearing a textured, light gray knit sweater and light-colored trousers, the fabric naturally pleated. The background is softly blurred, showing the muted greens and browns of distant mountains and a soft, cloudy sky, emphasizing him in a moment of tranquility. The foreground is filled with tall, dry grass and reeds, blurred to create depth. The overall mood is one of peaceful reflection, freedom, and quiet contentment.",
   },
   {
     id: 5,
@@ -28,17 +28,43 @@ export const blogs = [
 
   {
     id: 6,
-    image: "/blog-images/blog-8.png",
-    para: "Create a cinematic 8K ultra-realistic portrait of a young man sitting on stone steps outdoors, during golden hour. The background should be softly blurred with glowing golden bokeh lights floating in the air. Next to him, generate a glowing holographic female figure made of soft white-blue light particles, kneeling gracefully and offering him a single red rose. The man looks at her with a gentle, emotional expression, wearing a light grey t-shirt, navy pants, and white sneakers. The lighting should be warm, dreamy, and magical — symbolizing connection between reality and fantasy. Capture depth, reflection in the eyes, and detailed texture on the steps. Use volumetric light, smooth gradients, and a calm cinematic tone.",
+    image: "/blog-images/blog-11.png",
+    para: "Use o rosto 100% acima da foto enviada. Transforme esta imagem em uma foto editorial de moda de um homem bonito (use o rosto de referência como a imagem enviada). Ele está de perfil, com a cabeça inclinada para trás em pose contemplativa, olhos fechados. Ele veste uma jaqueta de couro preta resistente com a gola levantada. A atmosfera está repleta de densas nuvens de fumaça colorida; uma vibrante fumaça azul-ciano entra pela esquerda, enquanto uma fumaça laranja-dourada flamejante sai. Resolução 8k.",
   },
   {
     id: 7,
-    image: "/blog-images/blog-7.png",
+    image: "/blog-images/blog-7.jpg",
     para: "Create a photo-realistic, A young man stands confidently in the middle of a misty forest pathway. He wears a dark shawl with fringes over a gray sweater, paired with black jeans and white sneakers. His hands are in his pockets, giving a calm and composed look. The tall trees on both sides form a tunnel-like depth, covered in soft morning fog. The atmosphere feels peaceful, cinematic, and slightly mysterious with teal-green tones and diffused light filtering through the trees. The photo is sharp and detailed, with a smooth bokeh background and natural posture, captured with a 50mm f/1.8 lens, full-body portrait, 8K resolution. Here is the picture based on that description.",
   },
   {
     id: 8,
-    image: "/blog-images/Gemini_Generated.png",
-    para: " A photorealistic, sun-drenched lifestyle photograph of a stylish handsome and athletic young man, 24 year old, in last 24s with stylish brown hair and well groomed beard. He is captured mid-action in a crystal-clear swimming pool, looking intensely andconfidently at the camera as he runs a hand through his hair.Dynamic splashes of water freeze in the air around him, glistening under the bright direct sunlight",
+    image: "/blog-images/blog-2.png",
+    para: "A confident businessman sitting in a luxurious modern office, wearing a grey checkered suit with a black tie, white shirt, and a gold wristwatch. He is seated at a sleek desk with a silver laptop in front of him, leather executive chair, stylish marble-patterned wall in the background, warm ambient lighting,professional and powerful atmosphere, u|tra-realistic, cinematic detail, 8k --ar 2:3 --v 5 --style 4a",
+  },
+  {
+    id: 9,
+    image: "/blog-images/blog-9.png",
+    para: "Keep my exact face and body features from the given picture. A hyper-realistic portrait of me sitting at a wooden table, leaning slightly forward with one arm resting on the table. I am wearing a black denim jacket with rolled-up sleeves, and inside the jacket, a white t-shirt. On my wrist, I have a smartwatch with a dark green strap. My head is tilted slightly, with one hand resting casually and comfortably on my forehead. My hair is styled, and I have a soft, confidentsmile while looking directly at the camera. The background is softly blurred, filled with natural greenery, creating a bright and lively atmosphere. Ultra HD, 8K, cinematic, professional photography style.",
+  },
+  {
+    id: 10,
+    image: "/blog-images/blog-10.png",
+    para: "Use this reference image and create a hyper-realistic, close-up portrait of a charismatic male model in a moody, editorial setting. His face is lit with sharp, contrasting beams of amber and icy blue light, highlighting the symmetry of his jawline, subtle beard stubble, and confident, piercing gaze. He wears a dark tailored jacket with a soft velvet texture, slightly unbuttoned at the collar, revealing a glimpse of a minimal chain necklace. The background fades into a deep charcoal gradient with a soft cinematic haze and delicate light flares. A hint of fog curls around his silhouette, creating a mysterious and polished atmosphere. The overall tone evokes high fashion elegance with a modern, moody edge - perfect for a luxury fashion campaign or magazine cover.",
+  },
+  {
+    id: 11,
+    image: "/blog-images/blog-12.png",
+    para: "Ultra-realistic 8K portrait of a young man named Sam, standing against a deep red background. He has sharp facial features, messy styled dark hair, and a confident, slightly intense expression. He is wearing a black suit jacket over a white dress shirt with the collar slightly open, paired with a loosely knotted red striped tie. Dramatic red and black lighting highlights the contours of his face, jawline, and neck, creating a cinematic, powerful, and moody atmosphere.",
+  },
+  {
+    id: 12,
+    image: "/blog-images/blog-4.png",
+    para: " Create a photo-realistic, medium-sized image shows a man sitting comfortably on a white horse, one hand on the handlebars and leaning back slightly, looking up at the sky with a relaxed, contented smile, over a mountainside of grass swaying in the wind under a cloudy sky. His hair is gently tousled in the wind. He is wearing a textured, light gray knit sweater and light-colored trousers, the fabric naturally pleated. The background is softly blurred, showing the muted greens and browns of distant mountains and a soft, cloudy sky, emphasizing him in a moment of tranquility. The foreground is filled with tall, dry grass and reeds, blurred to create depth. The overall mood is one of peaceful reflection, freedom, and quiet contentment.",
   },
 ];
+
+//  {
+//     id: 6,
+//     image: "/blog-images/blog-8.png",
+//     para: "Create a cinematic 8K ultra-realistic portrait of a young man sitting on stone steps outdoors, during golden hour. The background should be softly blurred with glowing golden bokeh lights floating in the air. Next to him, generate a glowing holographic female figure made of soft white-blue light particles, kneeling gracefully and offering him a single red rose. The man looks at her with a gentle, emotional expression, wearing a light grey t-shirt, navy pants, and white sneakers. The lighting should be warm, dreamy, and magical — symbolizing connection between reality and fantasy. Capture depth, reflection in the eyes, and detailed texture on the steps. Use volumetric light, smooth gradients, and a calm cinematic tone.",
+//   },

@@ -25,7 +25,7 @@ function Blogs() {
           {blogs.map((blog) => (
             <div key={blog.id} className="">
               <img
-                className="w-[500px] lg:h-[470px] h-[570px] mx-auto mt-2 rounded-lg"
+                className="w-[500px] lg:h-[650px] h-[700px] mx-auto mt-2 rounded-lg"
                 src={blog.image}
                 alt=""
               />
