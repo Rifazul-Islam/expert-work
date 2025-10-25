@@ -1,10 +1,14 @@
 import Banner from "@/components/Banner/Banner";
-import Image from "next/image";
+import BoyPromptPage from "./boy-prompt/page";
+import GirlPromptPage from "./girl-prompt/page";
 
 export default function Home() {
   return (
-    <div className="mx-2">
+    <div className="mx-2 bg-gray-100">
       <Banner />
+      <BoyPromptPage />
+
+      <GirlPromptPage />
     </div>
   );
 }

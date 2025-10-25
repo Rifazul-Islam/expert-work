@@ -1,7 +1,7 @@
 "use client";
 
 import { MdDownload } from "react-icons/md";
-import Blogs from "../Blogs/Blogs";
+
 import Link from "next/link";
 
 function Banner() {
@@ -55,9 +55,6 @@ function Banner() {
             </button>
           </Link>
         </div>
-      </div>
-      <div>
-        <Blogs />
       </div>
     </div>
   );
