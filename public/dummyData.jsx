@@ -151,12 +151,62 @@ export const blogs = [
   },
 ];
 
+export const couples = [
+  {
+    id: 1,
+    image: "/couple-image/couple-1.png",
+    title: "Embrace in the Evening Glow",
+    prompt:
+      "Create cinematic hyper realistic full body shot me fuse my face and girlfriend face with accurate 100% and my girlfriend will be sitting on a wooden chair in outdoor cafe at night with flowers in her hands and I will learn back on the back of the chair and gently hug my girlfriend's neck and I will be looking at the camera and place is surrounded by green plants with small pick and white flowers and the string lights and lamps softly illuminate the background. Highlighting",
+  },
+
+  {
+    id: 2,
+    image: "/couple-image/couple-2.png",
+    title: "The Wind That Touched Her Hair",
+    prompt:
+      "Create a retro, vintage-inspired image -grainy yet bright - based on the reference picture. The girl should be draped in a perfect black cotton saree with white leaf prints and with a white blouse. Pinterest-style aesthetic saree. The vibe must capture the essence of a 90s movie dark brown-haired baddie, with a white flower in the hair enhanced by a windy, romantic atmosphere and the guy should be wearing an blue short kurta with white chinos She sits on a wooden bench where deep shadows and dramatic contrasts add mystery and artistry to the scene, creating a moody yet enchanting cinematic effect by making maple leaves fly here and there. Make the girl pose like she's sitting and reading the book. the guy is adjusting her hair looking at her. The girl should be looking at the book.",
+  },
+  {
+    id: 3,
+    image: "/couple-image/couple-3.png",
+    title: "Under the Magic Lights",
+    prompt:
+      "Ultra-realistic, 8K cinematic full-body portrait of a beautiful young Indian couples A woman (using the uploaded face reference for an exact match), sitting casually on a modern chair in a beautifully decorated outdoor setup at night A Man wears A pastel soft green shirt and cream pant and white sneakers. The background is dominated by a large, glowing neon ring wrapped in green vines and sparkling with colorful fairy lights, creating a vibrant, festive, and magical atmosphere",
+  },
+  {
+    id: 4,
+    image: "/couple-image/couple-4.png",
+    title: "Heart in Focus",
+    prompt:
+      "A romantic close-up portrait of a happy couple smiling warmly through a heart shape made with their hands. symbolizing love and togetherness. the man has a neatly trimmed beard and short dark hair, while the womn has long brown hair and soft dimples. Both wear cozy neutral-toned sweaters, exuding natural intimacy and warmth. The background is softly blurred. empleasizing their joyful faces framed perfectly inside the heart shape. The lighting is soft and natural, creating a cinematic.",
+  },
+];
+export const familys = [
+  {
+    id: 1,
+    image: "/family-images/family-1.png",
+    title: "Golden Togetherness",
+    prompt:
+      "A dreamy family portrait, couple holding their daughter in between, surrounded by glowing fairy lights, warm golden tones, magical atmosphere, soft focus, professional DSLR shot.daughter wearing black frock and men wearing gray and black formal dress and women in red saree.",
+  },
+
+  {
+    id: 2,
+    image: "/couple-image/family-2.png",
+    title: "A Familys Glow",
+    prompt:
+      "Create a dreamy, heartwarming family portrait featuring a couple holding their little daughter between them. The scene is softly illuminated by glowing fairy lights that wrap around them, casting a warm golden glow and a magical atmosphere. The daughter wears a charming black frock, the man is dressed in a gray and black formal outfit, and the woman wears an elegant red saree that adds a rich contrast to the scene. The background is softly blurred with gentle bokeh, enhancing the focus on their joyful expressions and togetherness. The overall tone should feel cinematic, emotional, and full of warmth — captured with a professional DSLR in soft focus and golden light.",
+  },
+];
+
 //  {
 //     id: 6,
 //     image: "/blog-images/blog-8.png",
 //     para: "Create a cinematic 8K ultra-realistic portrait of a young man sitting on stone steps outdoors, during golden hour. The background should be softly blurred with glowing golden bokeh lights floating in the air. Next to him, generate a glowing holographic female figure made of soft white-blue light particles, kneeling gracefully and offering him a single red rose. The man looks at her with a gentle, emotional expression, wearing a light grey t-shirt, navy pants, and white sneakers. The lighting should be warm, dreamy, and magical — symbolizing connection between reality and fantasy. Capture depth, reflection in the eyes, and detailed texture on the steps. Use volumetric light, smooth gradients, and a calm cinematic tone.",
 //   },
 
+// Male for ::8k ultra-realistic potrait of stylish you man face hair and body match from uploaded image standing against blue shirt black ground with messy hair over the aye a soft naturally sunlight beam casting dramatic shadow.prompkeep my 100% as in the reference image and beautiful
 export const girls = [
   {
     id: 1,

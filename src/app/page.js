@@ -1,6 +1,8 @@
 import Banner from "@/components/Banner/Banner";
 import BoyPromptPage from "./boy-prompt/page";
 import GirlPromptPage from "./girl-prompt/page";
+import CouplePromptPage from "./couple-prompt/page";
+import FamilyPromptPage from "./family-prompt/page";
 
 export default function Home() {
   return (
@@ -9,6 +11,10 @@ export default function Home() {
       <BoyPromptPage />
 
       <GirlPromptPage />
+
+      <CouplePromptPage />
+
+      <FamilyPromptPage />
     </div>
   );
 }

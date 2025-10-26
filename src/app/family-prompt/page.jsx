@@ -1,8 +1,8 @@
 "use client";
 import { useState } from "react";
-import { boys } from "../../../public/dummyData";
+import { familys } from "../../../public/dummyData";
 
-const BoyPromptPage = () => {
+const FamilyPromptPage = () => {
   const [copiedIndex, setCopiedIndex] = useState(null);
   const handleCopy = async (text, index) => {
     try {
@@ -14,36 +14,36 @@ const BoyPromptPage = () => {
     }
   };
   return (
-    <div className="my-14">
-      <h1 className="text-4xl  text-center text-zinc-800 font-bold mb-10">
-        Gemini AI Photo Prompt - Boy
+    <div>
+      <h1 className="text-4xl  text-center text-zinc-800 font-bold mb-8 ">
+        Gemini AI Photo Prompt - Family
       </h1>
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
-          {boys.map((boy) => (
-            <div key={boy?.id} className="card bg-base-100  shadow-sm">
+          {familys.map((family) => (
+            <div key={family?.id} className="card bg-base-100  shadow-sm">
               <figure className="h-[280px] overflow-hidden  pt-1 ">
                 <img
-                  src={boy.image}
-                  alt="boy-image"
+                  src={family?.image}
+                  alt="family-image"
                   className="h-full rounded "
                 />
               </figure>
               <div className="card-body p-2">
                 <h2 className="card-title font-bold text-[24px]">
-                  {boy?.title}
+                  {family?.title}
                 </h2>
-                <p className="line-clamp-3">{boy?.prompt}</p>
+                <p className="line-clamp-3">{family?.prompt}</p>
                 <div className="card-actions justify-end">
                   <button
-                    onClick={() => handleCopy(boy?.prompt, boy.id)}
+                    onClick={() => handleCopy(family?.prompt, family.id)}
                     className={` mt-1 px-4 py-1 rounded-md text-sm cursor-pointer font-medium text-white transition-all duration-300 ${
-                      copiedIndex === boy.id
+                      copiedIndex === family?.id
                         ? " btn bg-green-500 "
                         : "btn btn-primary py-0.5"
                     }`}
                   >
-                    {copiedIndex === boy.id ? "Copied" : "Copy Prompt"}
+                    {copiedIndex === family.id ? "Copied" : "Copy Prompt"}
                   </button>
                 </div>
               </div>
@@ -55,4 +55,4 @@ const BoyPromptPage = () => {
   );
 };
 
-export default BoyPromptPage;
+export default FamilyPromptPage;
