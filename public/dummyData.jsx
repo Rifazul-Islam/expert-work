@@ -265,4 +265,35 @@ export const girls = [
     prompt:
       "A beautiful young woman sitting outdoors on a rock with a scenic green mountain valley in the background. She has long, wavy dark hair and a soft smile, holding a small twig with leaves and red flowers near her face. She is wearing a cream-colored embroidered kurti top with three-quarter sleeves, light blue jeans with frayed hems, and white block-heeled sandals. On her wrist, she wears a watch and a black bracelet. Beside her rests a black tote bag with a blue printed design. The background features pine trees, lush greenery, and misty hills, bathed in natural daylight. The atmosphere is peaceful, serene, and aesthetic — highly detailed, photo-realistic, with soft cinematic lighting and a shallow depth of field.",
   },
+  {
+    id: 6,
+    image: "/girls-image/girl-6.png",
+    title: "Golden Smile",
+    prompt:
+      "A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.100 parents same face.",
+  },
+];
+
+export const festivals = [
+  {
+    id: 1,
+    image: "/festival-image/festival-1.png",
+    title: "Golden Hour Confidence",
+    prompt:
+      "A young man in a stylish black kurta with fine texture, standing near glowing golden fairy lights. He is facing slightly sideways with one hand resting gently on the string lights while the other hand is relaxed by his side. His gaze is directed confidently towards the camera with a soft smile, giving a charismatic presence. The shot is taken from a slightly low-angle perspective, making him look taller and more dominant in frame. Golden fairy lights create dreamy.",
+  },
+  {
+    id: 2,
+    image: "/festival-image/festival-2.png",
+    title: "Nighttime Glow",
+    prompt:
+      "A full-length, joyful portrait of a young woman with long, dark, wavy hair, smiling brightly and looking slightly upwards, with one hand playfully touching her hair. She is wearing an elegant traditional outfit: a light cream or off-white lehenga skirt, a dark patterned choli (blouse) with gold accents, and a contrasting black and white patterned dupatta draped over one shoulder. Her ears are adorned with earrings, and she has bangles on her wrist. She stands in an urban outdoor setting at night, in front of a lush green bush with vibrant yellow-green foliage. Above her, a brightly lit streetlamp acts as a focal point, with numerous fairy lights strung across the scene, creating a magical and festive atmosphere. In the blurred background, modern buildings are visible, illuminated by the night lights.",
+  },
+  {
+    id: 3,
+    image: "/festival-image/festival-3.png",
+    title: "Golden Embers",
+    prompt:
+      "A full-length, elegant portrait of a young woman with long, dark hair, standing gracefully and looking slightly to her right with a poised expression. She is wearing a rich, deep maroon or plum-colored salwar kameez set, featuring intricate gold floral patterns on the kurta and a matching dupatta draped over her arms, also with prominent gold designs. She is adorned with a delicate necklace and small earrings. She stands on a set of light-colored steps in front of a dark wooden door, which is beautifully decorated with a festive garland of yellow and orange marigolds and green accents. The background hints at a traditional or residential building, with natural, soft lighting illuminating the scene and highlighting the luxurious fabric and decorations. 100 parents same face.",
+  },
 ];
