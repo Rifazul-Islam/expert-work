@@ -35,25 +35,31 @@ export default function Navbar() {
               href="#"
               className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              News
+              Boys
             </a>
             <a
               href="#"
               className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              Article
+              Girls
             </a>
             <a
               href="#"
               className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              Contact
+              Couple
             </a>
             <a
               href="#"
               className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              SignUp
+              Family
+            </a>
+            <a
+              href="#"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
+            >
+              Festival
             </a>
           </div>
 
@@ -114,33 +120,39 @@ export default function Navbar() {
           <div className="md:hidden pb-4 border-t border-gray-200">
             <a
               href="#"
-              className="block px-3 py-2 text-gray-700 hover:bg-gray-100 rounded-md transition-colors font-medium"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
             >
               Home
             </a>
             <a
               href="#"
-              className="block px-3 py-2 text-gray-700 hover:bg-gray-100 rounded-md transition-colors font-medium"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              News
+              Boys
             </a>
             <a
               href="#"
-              className="block px-3 py-2 text-gray-700 hover:bg-gray-100 rounded-md transition-colors font-medium"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              Article
+              Girls
             </a>
             <a
               href="#"
-              className="block px-3 py-2 text-gray-700 hover:bg-gray-100 rounded-md transition-colors font-medium"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              Contact
+              Couple
             </a>
             <a
               href="#"
-              className="block px-3 py-2 text-gray-700 hover:bg-gray-100 rounded-md transition-colors font-medium"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
             >
-              SignUp
+              Family
+            </a>
+            <a
+              href="#"
+              className="text-gray-700 hover:text-gray-900 transition-colors "
+            >
+              Festival
             </a>
             {/* <div className="px-3 py-2 border-t border-gray-200 mt-2 pt-2">
               <button className="text-gray-700 hover:text-gray-900 transition-colors mr-4">

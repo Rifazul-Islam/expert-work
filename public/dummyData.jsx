@@ -91,6 +91,28 @@ export const boys = [
     prompt:
       "Ultra-realistic 8K portrait of a 22-year-old fit man with the same exact face as the reference photo (keep facial features identical). He stands confidently in front of an Emirates airplane at an airport with passengers boarding in a blurred background. Outfit: oversized black shirt, cargo pants, white Nike sneakers, and black round sunglasses. Holding a VIP suitcase, one hand in pocket. Cinematic natural lighting, professional realistic photo style.",
   },
+  {
+    id: 14,
+    title: "Beneath the Palm",
+    image: "/blog-images/boy-14.png",
+    prompt:
+      "A compassionate moment captured outdoors: Two young men stand beside a tall, weathered palm tree trunk in a misty, hazy landscape. One man is standing upright wearing a dark vest over a light blue shirt and white sneakers, looking directly at the camera with a calm expression. The other man is crouching down, holding a traditional clay pot with water pouring out of it, appearing to be sharing water or performing an act of kindness. The background is foggy and muted, with palm fronds visible at the top. The lighting is soft and natural, creating a documentary-style, humanitarian photography aesthetic. The mood is serene, compassionate, and captures a moment of human connection and community service. Shot in natural daylight with a slightly overcast, misty atmosphere.",
+  },
+
+  {
+    id: 15,
+    title: "Quiet Reflection",
+    image: "/blog-images/boy-15.png",
+    prompt:
+      "A young man with styled black hair, wearing a tan/beige casual shirt and black pants with white sneakers, sitting thoughtfully on a weathered brick platform. He is positioned in profile, looking to the side with a contemplative expression. The background features a lush, vibrant green natural setting with blurred foliage and trees, creating a serene outdoor atmosphere. The lighting is natural and soft, highlighting the subject against the rich green bokeh background. The overall mood is calm, introspective, and peaceful, with a focus on portrait photography with nature elements",
+  },
+  {
+    id: 16,
+    title: "Golden Hour of Love",
+    image: "/blog-images/boy-16.png",
+    prompt:
+      "A young man wearing a navy blue t-shirt with 'Expert' text and a red rose graphic design, holding a fresh red rose flower in his hands. He wears a white headband and white hand wraps/bandages on both hands. A wristwatch is visible on his wrist. His head is tilted downward in a contemplative, romantic pose as he gazes at the rose. The background features a lush green natural setting with warm golden bokeh lights creating a dreamy, soft atmosphere. The lighting is natural and golden hour-inspired, creating a warm, intimate mood. The overall aesthetic is artistic, emotional, and fashion-forward with a romantic undertone.",
+  },
 ];
 
 export const couples = [
@@ -270,7 +292,7 @@ export const girls = [
     image: "/girls-image/girl-6.png",
     title: "Golden Smile",
     prompt:
-      "A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.100 parents same face.",
+      "Create a photo-realistic , A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.",
   },
   {
     id: 7,
