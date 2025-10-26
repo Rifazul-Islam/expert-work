@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const CommonSection = ({ sections, subTitle }) => {
+const CommonSection = ({ sections, subTitle, description }) => {
   const [copiedIndex, setCopiedIndex] = useState(null);
   const handleCopy = async (text, index) => {
     try {
@@ -14,10 +14,16 @@ const CommonSection = ({ sections, subTitle }) => {
     }
   };
   return (
-    <div className="px-4">
-      <h1 className="lg:text-4xl text-[24px]  text-center text-zinc-800 font-bold mb-8 mt-14 ">
+    <div className="px-4 bg-gray-100">
+      <h1 className="lg:text-4xl text-[24px]  text-center text-zinc-800 font-bold mb-6 pt-14 ">
         Gemini AI Photo Prompt - {subTitle}
       </h1>
+
+      <div>
+        <p className="text-lg leading-relaxed text-foreground font-medium md:w-[45%] mx-auto pb-2 mb-4">
+          {description}
+        </p>
+      </div>
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
           {sections.map((section) => (

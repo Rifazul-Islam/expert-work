@@ -96,7 +96,7 @@ export const boys = [
     title: "Beneath the Palm",
     image: "/blog-images/boy-14.png",
     prompt:
-      "A compassionate moment captured outdoors: Two young men stand beside a tall, weathered palm tree trunk in a misty, hazy landscape. One man is standing upright wearing a dark vest over a light blue shirt and white sneakers, looking directly at the camera with a calm expression. The other man is crouching down, holding a traditional clay pot with water pouring out of it, appearing to be sharing water or performing an act of kindness. The background is foggy and muted, with palm fronds visible at the top. The lighting is soft and natural, creating a documentary-style, humanitarian photography aesthetic. The mood is serene, compassionate, and captures a moment of human connection and community service. Shot in natural daylight with a slightly overcast, misty atmosphere.",
+      " Create a photo-realistic, A compassionate moment captured outdoors: Two young men stand beside a tall, weathered palm tree trunk in a misty, hazy landscape. One man is standing upright wearing a dark vest over a light blue shirt and white sneakers, looking directly at the camera with a calm expression. The other man is crouching down, holding a traditional clay pot with water pouring out of it, appearing to be sharing water or performing an act of kindness. The background is foggy and muted, with palm fronds visible at the top. The lighting is soft and natural, creating a documentary-style, humanitarian photography aesthetic. The mood is serene, compassionate, and captures a moment of human connection and community service. Shot in natural daylight with a slightly overcast, misty atmosphere.",
   },
 
   {
@@ -104,14 +104,14 @@ export const boys = [
     title: "Quiet Reflection",
     image: "/blog-images/boy-15.png",
     prompt:
-      "A young man with styled black hair, wearing a tan/beige casual shirt and black pants with white sneakers, sitting thoughtfully on a weathered brick platform. He is positioned in profile, looking to the side with a contemplative expression. The background features a lush, vibrant green natural setting with blurred foliage and trees, creating a serene outdoor atmosphere. The lighting is natural and soft, highlighting the subject against the rich green bokeh background. The overall mood is calm, introspective, and peaceful, with a focus on portrait photography with nature elements",
+      "Create a photo-realistic, A young man with styled black hair, wearing a tan/beige casual shirt and black pants with white sneakers, sitting thoughtfully on a weathered brick platform. He is positioned in profile, looking to the side with a contemplative expression. The background features a lush, vibrant green natural setting with blurred foliage and trees, creating a serene outdoor atmosphere. The lighting is natural and soft, highlighting the subject against the rich green bokeh background. The overall mood is calm, introspective, and peaceful, with a focus on portrait photography with nature elements",
   },
   {
     id: 16,
     title: "Golden Hour of Love",
     image: "/blog-images/boy-16.png",
     prompt:
-      "A young man wearing a navy blue t-shirt with 'Expert' text and a red rose graphic design, holding a fresh red rose flower in his hands. He wears a white headband and white hand wraps/bandages on both hands. A wristwatch is visible on his wrist. His head is tilted downward in a contemplative, romantic pose as he gazes at the rose. The background features a lush green natural setting with warm golden bokeh lights creating a dreamy, soft atmosphere. The lighting is natural and golden hour-inspired, creating a warm, intimate mood. The overall aesthetic is artistic, emotional, and fashion-forward with a romantic undertone.",
+      "Create a photo-realistic, A young man wearing a navy blue t-shirt with 'Expert' text and a red rose graphic design, holding a fresh red rose flower in his hands. He wears a white headband and white hand wraps/bandages on both hands. A wristwatch is visible on his wrist. His head is tilted downward in a contemplative, romantic pose as he gazes at the rose. The background features a lush green natural setting with warm golden bokeh lights creating a dreamy, soft atmosphere. The lighting is natural and golden hour-inspired, creating a warm, intimate mood. The overall aesthetic is artistic, emotional, and fashion-forward with a romantic undertone.",
   },
 ];
 
@@ -257,7 +257,7 @@ export const girls = [
     image: "/girls-image/girl-1.png",
     title: "A Poem in the Park",
     prompt:
-      "A beautiful young woman sits peacefully on a wooden park bench, reading a book. She is wearing a traditional blue patterned sari, a white blouse, bangles and a flower in her hair. Autumn leaves are gently falling around her, and in the background, soft sunlight is seen filtering through the trees in a quiet, green park. The atmosphere is calm, poetic and warm, the dreamy depth of the field and the natural light enhancing the soft tones and gentle expression of her face, show flower pictures.",
+      " Create a photo-realistic, A beautiful young woman sits peacefully on a wooden park bench, reading a book. She is wearing a traditional blue patterned sari, a white blouse, bangles and a flower in her hair. Autumn leaves are gently falling around her, and in the background, soft sunlight is seen filtering through the trees in a quiet, green park. The atmosphere is calm, poetic and warm, the dreamy depth of the field and the natural light enhancing the soft tones and gentle expression of her face, show flower pictures.",
   },
   {
     id: 2,
@@ -278,21 +278,21 @@ export const girls = [
     image: "/girls-image/girl-4.png",
     title: "Wings of Serenity",
     prompt:
-      "A beautiful Indian woman wearing an elegant deep red embroidered saree, standing outdoors in a misty green mountain landscape. She gently releases a white dove from her hands, her expression serene and filled with hope. The scene is captured in soft natural lighting with cinematic bokeh, showcasing highly detailed fabric textures, realistic skin tone, and intricate traditional jewelry. The image should be in 8K ultra HD, photo-realistic DSLR quality, with a shallow depth of field. Do not alter her original face — maintain realistic 8K facial details.",
+      "Create a photo-realistic, A beautiful Indian woman wearing an elegant deep red embroidered saree, standing outdoors in a misty green mountain landscape. She gently releases a white dove from her hands, her expression serene and filled with hope. The scene is captured in soft natural lighting with cinematic bokeh, showcasing highly detailed fabric textures, realistic skin tone, and intricate traditional jewelry. The image should be in 8K ultra HD, photo-realistic DSLR quality, with a shallow depth of field. Do not alter her original face — maintain realistic 8K facial details.",
   },
   {
     id: 5,
     image: "/girls-image/girl-5.png",
     title: "Whispers of the Hills",
     prompt:
-      "A beautiful young woman sitting outdoors on a rock with a scenic green mountain valley in the background. She has long, wavy dark hair and a soft smile, holding a small twig with leaves and red flowers near her face. She is wearing a cream-colored embroidered kurti top with three-quarter sleeves, light blue jeans with frayed hems, and white block-heeled sandals. On her wrist, she wears a watch and a black bracelet. Beside her rests a black tote bag with a blue printed design. The background features pine trees, lush greenery, and misty hills, bathed in natural daylight. The atmosphere is peaceful, serene, and aesthetic — highly detailed, photo-realistic, with soft cinematic lighting and a shallow depth of field.",
+      "Create a photo-realistic, A beautiful young woman sitting outdoors on a rock with a scenic green mountain valley in the background. She has long, wavy dark hair and a soft smile, holding a small twig with leaves and red flowers near her face. She is wearing a cream-colored embroidered kurti top with three-quarter sleeves, light blue jeans with frayed hems, and white block-heeled sandals. On her wrist, she wears a watch and a black bracelet. Beside her rests a black tote bag with a blue printed design. The background features pine trees, lush greenery, and misty hills, bathed in natural daylight. The atmosphere is peaceful, serene, and aesthetic — highly detailed, photo-realistic, with soft cinematic lighting and a shallow depth of field.",
   },
   {
     id: 6,
     image: "/girls-image/girl-6.png",
     title: "Golden Smile",
     prompt:
-      "Create a photo-realistic , A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.",
+      "Create a photo-realistic, A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.",
   },
   {
     id: 7,
