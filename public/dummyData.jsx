@@ -272,6 +272,13 @@ export const girls = [
     prompt:
       "A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.100 parents same face.",
   },
+  {
+    id: 7,
+    image: "/girls-image/girl-7.png",
+    title: "Traditional Grace",
+    prompt:
+      "A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
+  },
 ];
 
 export const festivals = [
