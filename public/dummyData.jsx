@@ -193,7 +193,7 @@ export const familys = [
 
   {
     id: 2,
-    image: "/couple-image/family-2.png",
+    image: "/family-images/family-2.png",
     title: "A Familys Glow",
     prompt:
       "Create a dreamy, heartwarming family portrait featuring a couple holding their little daughter between them. The scene is softly illuminated by glowing fairy lights that wrap around them, casting a warm golden glow and a magical atmosphere. The daughter wears a charming black frock, the man is dressed in a gray and black formal outfit, and the woman wears an elegant red saree that adds a rich contrast to the scene. The background is softly blurred with gentle bokeh, enhancing the focus on their joyful expressions and togetherness. The overall tone should feel cinematic, emotional, and full of warmth — captured with a professional DSLR in soft focus and golden light.",
