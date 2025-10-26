@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import { IoClose } from "react-icons/io5";
 export default function Navbar() {
@@ -9,84 +10,60 @@ export default function Navbar() {
     setIsOpen(!isOpen);
   };
 
+  const menuItems = (
+    <>
+      <Link className="hover:text-[#047bf8] py-1.5 rounded-lg" href="/">
+        Home
+      </Link>
+      <Link
+        className=" hover:text-[#047bf8] py-1.5 rounded-lg"
+        href="/boy-prompt"
+      >
+        Boys
+      </Link>
+
+      <Link
+        className="hover:text-[#047bf8]  py-1.5 rounded-lg"
+        href="/girl-prompt"
+      >
+        Girl
+      </Link>
+      <Link
+        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        href="/couple-prompt"
+      >
+        Couple
+      </Link>
+      <Link
+        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        href="/family-prompt"
+      >
+        Family
+      </Link>
+      <Link
+        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        href="/festival-prompt"
+      >
+        Festival
+      </Link>
+    </>
+  );
+
   return (
     <nav className="bg-white border-b border-gray-200 shadow-sm py-1.5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-0">
-        <div className="flex justify-between items-center h-16">
+        <div className="flex justify-between items-center  ">
           {/* Logo - Left Side */}
-          <div className="flex-shrink-0">
-            <a
-              href="/"
-              className="text-2xl font-bold bg-gradient-to-r from-blue-600 via-purple-500 to-pink-500 bg-clip-text text-transparent"
-            >
-              Prompt Expert
-            </a>
+          <div className="flex-shrink-0  ">
+            <img className=" h-16 " src="/gemini-images/logos.png" alt="" />
           </div>
 
           {/* Navigation Links - Center/Right on Desktop */}
-          <div className="hidden md:flex items-right space-x-8 text-lg font-semibold">
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Home
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Boys
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Girls
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Couple
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Family
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
-            >
-              Festival
-            </a>
+          <div className="hidden md:flex items-right  text-lg font-semibold">
+            <p className="text-gray-700 space-x-8 hover:text-gray-900 transition-colors">
+              {menuItems}
+            </p>
           </div>
-
-          {/* Right Side - Search and Sign In */}
-          {/* <div className="hidden md:flex items-center space-x-6">
-            <button className="text-gray-700 hover:text-gray-900 transition-colors">
-              <svg
-                className="h-5 w-5"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                />
-              </svg>
-            </button>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors font-medium"
-            >
-              Sign in
-            </a>
-          </div> */}
 
           {/* Mobile Menu Button */}
           <div className="md:hidden">
@@ -117,66 +94,53 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isOpen && (
-          <div className="md:hidden pb-4 border-t border-gray-200">
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+          <div className="md:hidden space-y-1.5 flex mx-4 flex-col pb-4 border-t border-gray-200">
+            {/* <p className="text-gray-700 flex flex-col pl- hover:text-gray-900 transition-colors">
+              {menuItems}
+            </p> */}
+            <Link
+              onClick={() => setIsOpen(false)}
+              className="hover:text-[#047bf8] py-1.5 border rounded-lg pl-3"
+              href="/"
             >
               Home
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+            </Link>
+            <Link
+              onClick={() => setIsOpen(false)}
+              className=" hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
+              href="/boy-prompt"
             >
               Boys
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+            </Link>
+
+            <Link
+              onClick={() => setIsOpen(false)}
+              className="hover:text-[#047bf8]  py-1.5 rounded-lg border pl-3"
+              href="/girl-prompt"
             >
-              Girls
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+              Girl
+            </Link>
+            <Link
+              onClick={() => setIsOpen(false)}
+              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
+              href="/couple-prompt"
             >
               Couple
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+            </Link>
+            <Link
+              onClick={() => setIsOpen(false)}
+              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
+              href="/family-prompt"
             >
               Family
-            </a>
-            <a
-              href="#"
-              className="text-gray-700 hover:text-gray-900 transition-colors "
+            </Link>
+            <Link
+              onClick={() => setIsOpen(false)}
+              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
+              href="/festival-prompt"
             >
               Festival
-            </a>
-            {/* <div className="px-3 py-2 border-t border-gray-200 mt-2 pt-2">
-              <button className="text-gray-700 hover:text-gray-900 transition-colors mr-4">
-                <svg
-                  className="h-5 w-5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                  />
-                </svg>
-              </button>
-              <a
-                href="#"
-                className="text-gray-700 hover:text-gray-900 transition-colors font-medium"
-              >
-                Sign in
-              </a>
-            </div> */}
+            </Link>
           </div>
         )}
       </div>

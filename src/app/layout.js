@@ -29,6 +29,7 @@ export default function RootLayout({ children }) {
     <html data-theme="light" lang="en">
       <body className={` ${roboto.className} antialiased`}>
         <Navbar />
+
         {children}
         <ScrollarButton />
         <Footer />
