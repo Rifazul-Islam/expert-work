@@ -55,7 +55,7 @@ export default function Navbar() {
       <div className=" lg:max-w-7xl mx-auto px-4 sm:px-6 lg:px-0">
         <div className="flex justify-between items-center  ">
           {/* Logo - Left Side */}
-          <div className="flex-shrink-0  ">
+          <div className="flex items-center">
             <img
               className="h-14 md:h-16 "
               src="/gemini-images/logos.png"
@@ -74,14 +74,13 @@ export default function Navbar() {
             <Link
               className="pl-4"
               target="blank"
-              href="https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
+              href="https://gemini.google.com/app"
             >
-              <button className="group cursor-pointer relative px-2 py-1  bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white font-bold rounded-xl hover:from-blue-500 hover:via-indigo-500 hover:to-purple-500 transition-all duration-300 shadow-2xl hover:shadow-blue-500/50 hover:scale-100 flex items-center gap-3 border border-blue-400/30 hover:border-blue-300/60 backdrop-blur-sm">
-                <MdDownload size={18} className="animate-bounce" />
-                <span className="">Download Now </span>
-
-                <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-blue-400 to-purple-400 opacity-0 group-hover:opacity-20 transition-opacity duration-300 blur"></div>
-              </button>
+              <main className="flex items-center cursor-pointer justify-center btn btn-outline btn-primary px-4 py-2 rounded-lg border-blue-600 hover:bg-blue-900  transition-all duration-300">
+                <button className="text-xl cursor-pointer  font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent  ">
+                  Go Gemini AI
+                </button>
+              </main>
             </Link>
           </div>
 
@@ -163,17 +162,15 @@ export default function Navbar() {
             </Link>
 
             <Link
-              className=" py-2"
-              onClick={() => setIsOpen(false)}
+              className="pl-4"
               target="blank"
-              href="https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
+              href="https://gemini.google.com/app"
             >
-              <button className="group  cursor-pointer relative px-5 w-full lg:w-[45%] mx-auto py-4 bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white font-bold rounded-xl hover:from-blue-500 hover:via-indigo-500 hover:to-purple-500 transition-all duration-300 shadow-2xl hover:shadow-blue-500/50 hover:scale-100 flex items-center gap-3 border border-blue-400/30 hover:border-blue-300/60 backdrop-blur-sm">
-                <MdDownload size={24} className="animate-bounce " />
-                <span className="text-xl">Download Now </span>
-
-                <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-blue-400 to-purple-400 opacity-0 group-hover:opacity-20 transition-opacity duration-300 blur"></div>
-              </button>
+              <main className="flex items-center cursor-pointer justify-center btn btn-outline btn-primary px-4 py-2 rounded-lg border-blue-600 hover:bg-blue-900  transition-all duration-300">
+                <button className="text-xl cursor-pointer  font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent  ">
+                  Go Gemini AI
+                </button>
+              </main>
             </Link>
           </div>
         )}

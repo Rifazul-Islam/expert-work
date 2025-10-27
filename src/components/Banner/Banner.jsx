@@ -13,7 +13,7 @@ function Banner() {
           <div
             className="absolute inset-0"
             style={{
-              backgroundImage: "url(/blog-images/blog-6.png)",
+              backgroundImage: "url(/gemini-images/banner-image.png)",
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",

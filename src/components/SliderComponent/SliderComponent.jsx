@@ -30,8 +30,8 @@ const SliderComponent = () => {
     {
       id: 5,
       link: "/boy-prompt",
-      image: "/blog-images/blog-5.png",
-      alt: "Blog Image 5",
+      image: "/blog-images/boy-22.png",
+      alt: "Blog Image 22",
     },
     {
       id: 6,
