@@ -89,14 +89,14 @@ export const boys = [
     title: "Airport Elegance",
     image: "/blog-images/boy-13.png",
     prompt:
-      "Ultra-realistic 8K portrait of a 22-year-old fit man with the same exact face as the reference photo (keep facial features identical). He stands confidently in front of an Emirates airplane at an airport with passengers boarding in a blurred background. Outfit: oversized black shirt, cargo pants, white Nike sneakers, and black round sunglasses. Holding a VIP suitcase, one hand in pocket. Cinematic natural lighting, professional realistic photo style.",
+      "Create using this boy image, Ultra-realistic 8K portrait of a 22-year-old fit man with the same exact face as the reference photo (keep facial features identical). He stands confidently in front of an Emirates airplane at an airport with passengers boarding in a blurred background. Outfit: oversized black shirt, cargo pants, white Nike sneakers, and black round sunglasses. Holding a VIP suitcase, one hand in pocket. Cinematic natural lighting, professional realistic photo style.",
   },
   {
     id: 14,
     title: "Beneath the Palm",
     image: "/blog-images/boy-14.png",
     prompt:
-      " Create a photo-realistic, A compassionate moment captured outdoors: Two young men stand beside a tall, weathered palm tree trunk in a misty, hazy landscape. One man is standing upright wearing a dark vest over a light blue shirt and white sneakers, looking directly at the camera with a calm expression. The other man is crouching down, holding a traditional clay pot with water pouring out of it, appearing to be sharing water or performing an act of kindness. The background is foggy and muted, with palm fronds visible at the top. The lighting is soft and natural, creating a documentary-style, humanitarian photography aesthetic. The mood is serene, compassionate, and captures a moment of human connection and community service. Shot in natural daylight with a slightly overcast, misty atmosphere.",
+      "Create using this boy image, Create a photo-realistic, A compassionate moment captured outdoors: Two young men stand beside a tall, weathered palm tree trunk in a misty, hazy landscape. One man is standing upright wearing a dark vest over a light blue shirt and white sneakers, looking directly at the camera with a calm expression. The other man is crouching down, holding a traditional clay pot with water pouring out of it, appearing to be sharing water or performing an act of kindness. The background is foggy and muted, with palm fronds visible at the top. The lighting is soft and natural, creating a documentary-style, humanitarian photography aesthetic. The mood is serene, compassionate, and captures a moment of human connection and community service. Shot in natural daylight with a slightly overcast, misty atmosphere.",
   },
 
   {
@@ -111,7 +111,50 @@ export const boys = [
     title: "Golden Hour of Love",
     image: "/blog-images/boy-16.png",
     prompt:
-      "Create a photo-realistic, A young man wearing a navy blue t-shirt with 'Expert' text and a red rose graphic design, holding a fresh red rose flower in his hands. He wears a white headband and white hand wraps/bandages on both hands. A wristwatch is visible on his wrist. His head is tilted downward in a contemplative, romantic pose as he gazes at the rose. The background features a lush green natural setting with warm golden bokeh lights creating a dreamy, soft atmosphere. The lighting is natural and golden hour-inspired, creating a warm, intimate mood. The overall aesthetic is artistic, emotional, and fashion-forward with a romantic undertone.",
+      " Create using this boy image, Create a photo-realistic, A young man wearing a navy blue t-shirt with 'Expert' text and a red rose graphic design, holding a fresh red rose flower in his hands. He wears a white headband and white hand wraps/bandages on both hands. A wristwatch is visible on his wrist. His head is tilted downward in a contemplative, romantic pose as he gazes at the rose. The background features a lush green natural setting with warm golden bokeh lights creating a dreamy, soft atmosphere. The lighting is natural and golden hour-inspired, creating a warm, intimate mood. The overall aesthetic is artistic, emotional, and fashion-forward with a romantic undertone.",
+  },
+
+  {
+    id: 17,
+    title: "The Modern Kurta Look",
+    image: "/blog-images/boy-17.png",
+    prompt:
+      "Create using this boy image, A full-length realistic portrait of a confident young man standing on a green lawn surrounded by tropical palm trees. He is wearing a traditional white kurta and pajama, black shoes, a smartwatch on his wrist, and stylish dark sunglasses. The soft light of the sun shines through the palm leaves, creating a soft, bright background with natural bokeh. The man's posture is elegant and harmonious, with a calm expression and a modern traditional feel. The atmosphere is calm, cinematic, and vibrant, highlighting the harmony of nature and style.",
+  },
+  {
+    id: 18,
+    title: "Elegance Among Roses",
+    image: "/blog-images/boy-18.png",
+    prompt:
+      "Create using this boy image, 2/1 Ultra-HD 8K realistic photo A fair-skinned young man (reference photo) stands in a field of roses. He is wearing a white shirt, blue pants, and a wristwatch. His hair is black. The man is holding a red rose in his hand, looking intently at the camera. He is looking slightly left of center of the photo, facing the camera. In the background is a vast field of colorful roses in full bloom under a sky filled with large, fluffy clouds.",
+  },
+  {
+    id: 19,
+    title: "Nature in Motion",
+    image: "/blog-images/boy-19.png",
+    prompt:
+      "Create using this boy image, Ultra-realistic 8k cinematic modern hairsyle from the given picture, wearing a white olives print full shart and gray cargo pant and boost 650 shoes. Up many white bird and right hand holding one whie bird he stands casually near a blooming flower bush and striped concrete road barrier. One hand in pocket, the other slightly raised as if mid-step. Captured in soft natural sunlight with vibrant greenery, giving a candid, modern outdoor vibe.",
+  },
+  {
+    id: 20,
+    title: "Natural Confidence",
+    image: "/blog-images/boy-20.png",
+    prompt:
+      "Create using this boy image, A hyper-realistic outdoor portrait taken in a bright tropical garden. The man sits at a wooden table under dappled sunlight, surrounded by palm leaves and vibrant greenery. His expression is confident and relaxed, black denim jacket and smartwatch standing out against the lush background. The natural light and subtle breeze create a cinematic freshness. Ultra HD, 8K, crisp focus, bright color grading, lifestyle realism.",
+  },
+  {
+    id: 21,
+    title: "The Luminous Gaze",
+    image: "/blog-images/boy-21.png",
+    prompt:
+      " Create using this boy image, Ultra-realistic, 8K cinematic full-body portrait of a handsome young Indian man (using uploaded facial references) casually sitting on a modern chair in a beautifully decorated outdoor setup at night. The man is wearing a pastel soft green shirt and cream pants and white sneakers. The background is dominated by a large, bright neon ring wrapped in green vines and shimmering with colorful red lights, creating a vibrant, festive and magical atmosphere.",
+  },
+  {
+    id: 22,
+    title: "The Gentle Glow",
+    image: "/blog-images/boy-22.png",
+    prompt:
+      "Create using this boy image, A hyper-realistic, 8K cinematic full-body portrait of a handsome young man sitting casually on a modern chair in an outdoor night setup. He wears a pastel mint green shirt and cream pants with white sneakers. Behind him glows a large neon circle wrapped in green vines and twinkling multicolor fairy lights, casting a soft, festive glow. Potted plants frame the scene on both sides, while the background fades into gentle darkness with hints of greenery. The atmosphere feels warm, modern, and celebratory, with perfect lighting that highlights his confident smile and relaxed pose.",
   },
 ];
 
@@ -144,6 +187,13 @@ export const couples = [
     title: "Heart in Focus",
     prompt:
       "A romantic close-up portrait of a happy couple smiling warmly through a heart shape made with their hands. symbolizing love and togetherness. the man has a neatly trimmed beard and short dark hair, while the womn has long brown hair and soft dimples. Both wear cozy neutral-toned sweaters, exuding natural intimacy and warmth. The background is softly blurred. empleasizing their joyful faces framed perfectly inside the heart shape. The lighting is soft and natural, creating a cinematic.",
+  },
+  {
+    id: 5,
+    image: "/couple-image/couple-5.png",
+    title: "Circle of Love",
+    prompt:
+      "Ultra-realistic, 8K cinematic full-body portrait of a beautiful young Indian couples A woman (using the uploaded face reference for an exact match), sitting casually on a modern chair in a beautifully decorated outdoor setup at night A Man wears A pastel soft green shirt and cream pant and white sneakers. The background is dominated by a large, glowing neon ring wrapped in green vines and sparkling with colorful fairy lights, creating a vibrant, festive, and magical atmosphere.",
   },
 ];
 export const familys = [
@@ -264,7 +314,7 @@ export const girls = [
     image: "/girls-image/girl-2.png",
     title: "Serenity Among the Kash Flowers",
     prompt:
-      "Create using this girl image A beautiful young woman wearing a traditional white and red sari, adorned with a flower tiara and lotus flowers in her hair, holding a bouquet of pink lotus flowers. She has traditional Bengali wedding makeup, including a red bindi and intricate eye makeup. In the background is a soft-focus field of white Kash flowers (Kansa grass), bathed in natural, soft golden light, depicting a calm and elegant atmosphere. Realistic image, high detail, vibrant colors, There will be no color on the forehead.",
+      "Create using this girl image A beautiful young woman wearing a traditional white and red sari, adorned with a flower tiara and lotus flowers in her hair, holding a bouquet of pink lotus flowers.In the background is a soft-focus field of white Kash flowers (Kansa grass), bathed in natural, soft golden light, depicting a calm and elegant atmosphere. Realistic image, high detail, vibrant colors, There will be no color on the forehead.",
   },
   {
     id: 3,
