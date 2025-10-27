@@ -164,7 +164,7 @@ export default function Navbar() {
             <Link
               className="pl-4"
               target="blank"
-              href="https://gemini.google.com/app"
+              href="https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
             >
               <main className="flex items-center cursor-pointer justify-center btn btn-outline btn-primary px-4 py-2 rounded-lg border-blue-600 hover:bg-blue-900  transition-all duration-300">
                 <button className="text-xl cursor-pointer  font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent  ">
