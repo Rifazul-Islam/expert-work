@@ -3,47 +3,84 @@
 import Link from "next/link";
 import { useState } from "react";
 import { IoClose } from "react-icons/io5";
-import { MdDownload } from "react-icons/md";
+import { usePathname } from "next/navigation";
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-
+  const pathname = usePathname();
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
 
   const menuItems = (
     <>
-      <Link className="hover:text-[#047bf8] py-1.5 rounded-lg" href="/">
+      <Link
+        onClick={() => setIsOpen(false)}
+        href="/"
+        className={`py-1.5 rounded-lg border md:border-0  pl-3 md:pl-0 ${
+          pathname === "/"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
+      >
         Home
       </Link>
+
       <Link
-        className=" hover:text-[#047bf8] py-1.5 rounded-lg"
+        onClick={() => setIsOpen(false)}
         href="/boy-prompt"
+        className={`py-1.5 rounded-lg border md:border-0  pl-3 md:pl-0 ${
+          pathname === "/boy-prompt"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
       >
         Boys
       </Link>
 
       <Link
-        className="hover:text-[#047bf8]  py-1.5 rounded-lg"
+        onClick={() => setIsOpen(false)}
         href="/girl-prompt"
+        className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
+          pathname === "/girl-prompt"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
       >
         Girl
       </Link>
+
       <Link
-        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        onClick={() => setIsOpen(false)}
         href="/couple-prompt"
+        className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
+          pathname === "/couple-prompt"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
       >
         Couple
       </Link>
+
       <Link
-        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        onClick={() => setIsOpen(false)}
         href="/family-prompt"
+        className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
+          pathname === "/family-prompt"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
       >
         Family
       </Link>
+
       <Link
-        className="hover:text-[#047bf8] py-1.5 rounded-lg"
+        onClick={() => setIsOpen(false)}
         href="/festival-prompt"
+        className={`py-1.5 rounded-lg  border md:border-0  pl-3 md:pl-0 ${
+          pathname === "/festival-prompt"
+            ? "text-[#047bf8]"
+            : "hover:text-[#047bf8] text-gray-700"
+        }`}
       >
         Festival
       </Link>
@@ -64,10 +101,8 @@ export default function Navbar() {
           </div>
 
           {/* Navigation Links - Center/Right on Desktop */}
-          <div className="hidden md:flex items-center  text-lg font-semibold">
-            <p className="text-gray-700 space-x-6 hover:text-gray-900 transition-colors">
-              {menuItems}
-            </p>
+          <div className="hidden md:flex items-center text-lg font-semibold space-x-6">
+            {menuItems}
           </div>
 
           <div className="hidden md:flex items-right  text-lg font-semibold">
@@ -114,60 +149,15 @@ export default function Navbar() {
         {/* Mobile Menu */}
         {isOpen && (
           <div className="md:hidden space-y-1.5 flex mx-4 flex-col pb-4 border-t border-gray-200">
-            {/* <p className="text-gray-700 flex flex-col pl- hover:text-gray-900 transition-colors">
-              {menuItems}
-            </p> */}
-            <Link
-              onClick={() => setIsOpen(false)}
-              className="hover:text-[#047bf8] py-1.5 border rounded-lg pl-3"
-              href="/"
-            >
-              Home
-            </Link>
-            <Link
-              onClick={() => setIsOpen(false)}
-              className=" hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
-              href="/boy-prompt"
-            >
-              Boys
-            </Link>
+            {menuItems}
 
             <Link
-              onClick={() => setIsOpen(false)}
-              className="hover:text-[#047bf8]  py-1.5 rounded-lg border pl-3"
-              href="/girl-prompt"
-            >
-              Girl
-            </Link>
-            <Link
-              onClick={() => setIsOpen(false)}
-              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
-              href="/couple-prompt"
-            >
-              Couple
-            </Link>
-            <Link
-              onClick={() => setIsOpen(false)}
-              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
-              href="/family-prompt"
-            >
-              Family
-            </Link>
-            <Link
-              onClick={() => setIsOpen(false)}
-              className="hover:text-[#047bf8] py-1.5 rounded-lg border pl-3"
-              href="/festival-prompt"
-            >
-              Festival
-            </Link>
-
-            <Link
-              className="pl-4"
+              className="pl-0"
               target="blank"
               href="https://play.google.com/store/apps/details?id=com.google.android.apps.bard"
             >
               <main className="flex items-center cursor-pointer justify-center btn btn-outline px-4 py-2 rounded-lg border-blue-600  transition-all duration-300">
-                <button className="text-xl cursor-pointer  font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent  ">
+                <button className="text-xl cursor-pointer  font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
                   Go Gemini AI
                 </button>
               </main>

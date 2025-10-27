@@ -249,14 +249,14 @@ export const girls = [
     image: "/girls-image/girl-2.png",
     title: "Serenity Among the Kash Flowers",
     prompt:
-      "Create using this girl image A beautiful young woman wearing a traditional white and red sari, adorned with a flower tiara and lotus flowers in her hair, holding a bouquet of pink lotus flowers.In the background is a soft-focus field of white Kash flowers (Kansa grass), bathed in natural, soft golden light, depicting a calm and elegant atmosphere. Realistic image, high detail, vibrant colors, There will be no color on the forehead.",
+      "Create using this girl image, A beautiful young woman wearing a traditional white and red sari, adorned with a flower tiara and lotus flowers in her hair, holding a bouquet of pink lotus flowers.In the background is a soft-focus field of white Kash flowers (Kansa grass), bathed in natural, soft golden light, depicting a calm and elegant atmosphere. Realistic image, high detail, vibrant colors, There will be no color on the forehead.",
   },
   {
     id: 3,
     image: "/girls-image/girl-3.png",
     title: "Winter Glow in Paris",
     prompt:
-      "A Stylish woman with pink lipstick and minimal makeup sitting in bench and make styllish pose, wearing full matching simple jwellery a long orange trench coat, a white top black leggings, and white maching ankle boots. She has wav long brown hair flowing in the air. She is carrying a quilted white leather handbag and wearing stylish sunglesses. The full snowy night background features blurred effiel Tower and storefronts, with a chice, sophisticated atmosphere photorealistic, fashion photography.  I want same facial features as I uploaded.",
+      "Create using this girl image, A Stylish woman with pink lipstick and minimal makeup sitting in bench and make styllish pose, wearing full matching simple jwellery a long orange trench coat, a white top black leggings, and white maching ankle boots. She has wav long brown hair flowing in the air. She is carrying a quilted white leather handbag and wearing stylish sunglesses. The full snowy night background features blurred effiel Tower and storefronts, with a chice, sophisticated atmosphere photorealistic, fashion photography.  I want same facial features as I uploaded.",
   },
   {
     id: 4,
