@@ -73,7 +73,7 @@ const SliderComponent = () => {
   ];
 
   return (
-    <div className="my-10 mx-10 cursor-pointer md:mx-60">
+    <div className="my-10 mx-4 cursor-pointer md:mx-60">
       <h1 className="text-2xl md:text-3xl font-bold mb-4 text-gray-800 text-center">
         Explore <span className="text-pink-600">Latest</span> Prompts
       </h1>
@@ -84,7 +84,7 @@ const SliderComponent = () => {
             <img
               src={item.image}
               alt={item.alt}
-              className="md:h-68 h-60 object-cover md:w-[200px] w-auto mx-2 rounded-lg"
+              className="md:h-68 h-60 object-cover md:w-[200px] w-[150px] mx-2 rounded-lg"
             />
           </Link>
         ))}

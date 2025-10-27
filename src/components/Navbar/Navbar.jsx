@@ -51,8 +51,8 @@ export default function Navbar() {
   );
 
   return (
-    <nav className="bg-white border-b  border-gray-200 shadow-sm py-1.5">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-0">
+    <nav className="bg-white border-b border-gray-200 shadow-sm py-1.5">
+      <div className=" lg:max-w-7xl mx-auto px-4 sm:px-6 lg:px-0">
         <div className="flex justify-between items-center  ">
           {/* Logo - Left Side */}
           <div className="flex-shrink-0  ">
@@ -85,7 +85,7 @@ export default function Navbar() {
           <div className="md:hidden">
             <button
               onClick={toggleMenu}
-              className="inline-flex cursor-pointer mx-2 items-center justify-center p-2 rounded-md text-gray-700 hover:text-gray-900 transition-colors"
+              className="inline-flex cursor-pointer items-center justify-center p-2 rounded-md text-gray-700 hover:text-gray-900 transition-colors"
             >
               {isOpen ? (
                 <IoClose className="text-xl" />
