@@ -56,7 +56,11 @@ export default function Navbar() {
         <div className="flex justify-between items-center  ">
           {/* Logo - Left Side */}
           <div className="flex-shrink-0  ">
-            <img className=" h-16 " src="/gemini-images/logos.png" alt="" />
+            <img
+              className="h-10 md:h-16 "
+              src="/gemini-images/logos.png"
+              alt=""
+            />
           </div>
 
           {/* Navigation Links - Center/Right on Desktop */}
