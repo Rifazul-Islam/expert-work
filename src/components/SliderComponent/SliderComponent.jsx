@@ -73,7 +73,7 @@ const SliderComponent = () => {
   ];
 
   return (
-    <div className="my-10 mx-2 cursor-pointer md:mx-60">
+    <div className="my-10 mx-10 cursor-pointer md:mx-60">
       <h1 className="text-2xl md:text-3xl font-bold mb-4 text-gray-800 text-center">
         Explore <span className="text-pink-600">Latest</span> Prompts
       </h1>
