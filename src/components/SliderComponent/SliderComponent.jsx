@@ -75,7 +75,7 @@ const SliderComponent = () => {
   return (
     <div className="my-10 mx-2 cursor-pointer md:mx-60">
       <h1 className="text-2xl md:text-3xl font-bold mb-4 text-gray-800 text-center">
-        Explore <span className="  text-pink-600">Latest</span> Prompts
+        Explore <span className="text-pink-600">Latest</span> Prompts
       </h1>
 
       <Marquee pauseOnHover={true} speed={80}>
@@ -84,7 +84,7 @@ const SliderComponent = () => {
             <img
               src={item.image}
               alt={item.alt}
-              className="md:h-68 h-60 object-cover w-[200px] mx-2 rounded-lg"
+              className="md:h-68 h-60 object-cover md:w-[200px] w-[100px] mx-2 rounded-lg"
             />
           </Link>
         ))}
