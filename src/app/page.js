@@ -4,7 +4,7 @@ import HomeSection from "@/components/HomeSection/HomeSection";
 
 export default function Home() {
   return (
-    <div className="mx-2 bg-gray-100">
+    <div className="mx-2 px-4 bg-gray-100">
       <Banner />
       {/* <SliderComponent /> */}
       <HomeSection />
