@@ -57,7 +57,7 @@ export default function Navbar() {
           {/* Logo - Left Side */}
           <div className="flex-shrink-0  ">
             <img
-              className="h-10 md:h-16 "
+              className="h-14 md:h-16 "
               src="/gemini-images/logos.png"
               alt=""
             />
