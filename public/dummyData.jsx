@@ -284,7 +284,7 @@ export const girls = [
     image: "/girls-image/girl-7.png",
     title: "Traditional Grace",
     prompt:
-      "A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
+      "Create using this boy image, A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
   },
 ];
 
