@@ -18,7 +18,7 @@ const SliderComponent = () => {
     {
       id: 3,
       link: "/boy-prompt",
-      image: "/blog-images/blog-3.png",
+      image: "/blog-images/boy-23.png",
       alt: "Blog Image 3",
     },
     {
@@ -53,22 +53,35 @@ const SliderComponent = () => {
     },
     {
       id: 9,
+      link: "/girl-prompt",
+      image: "/girls-image/girl-9.png",
+      alt: "Girl Image 9",
+    },
+    {
+      id: 10,
       link: "/couple-prompt",
       image: "/couple-image/couple-1.png",
       alt: "couple Image 8",
     },
 
     {
-      id: 10,
+      id: 11,
       link: "/family-prompt",
       image: "/family-images/family-3.png",
       alt: "Family Image 2",
     },
     {
-      id: 11,
+      id: 12,
       link: "/festival-prompt",
       image: "/festival-image/festival-1.png",
       alt: "Festival Image 8",
+    },
+
+    {
+      id: 13,
+      link: "/boy-prompt",
+      image: "/blog-images/boy-24.png",
+      alt: "Blog Image 24",
     },
   ];
 

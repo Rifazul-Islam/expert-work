@@ -7,7 +7,7 @@ import Link from "next/link";
 function Banner() {
   return (
     <div>
-      <div className="relative w-full h-[650px] bg-gradient-to-br from-slate-600 via-slate-700 to-slate-800 overflow-hidden flex items-center justify-center">
+      <div className="relative w-full h-[650px] bg-gradient-to-br from-slate-400 via-slate-500 to-slate-600 overflow-hidden flex items-center justify-center">
         {/* Diagonal stripe pattern background */}
         <div className="absolute inset-0 opacity-30">
           <div

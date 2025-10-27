@@ -156,6 +156,20 @@ export const boys = [
     prompt:
       "Create using this boy image, A hyper-realistic, 8K cinematic full-body portrait of a handsome young man sitting casually on a modern chair in an outdoor night setup. He wears a pastel mint green shirt and cream pants with white sneakers. Behind him glows a large neon circle wrapped in green vines and twinkling multicolor fairy lights, casting a soft, festive glow. Potted plants frame the scene on both sides, while the background fades into gentle darkness with hints of greenery. The atmosphere feels warm, modern, and celebratory, with perfect lighting that highlights his confident smile and relaxed pose.",
   },
+  {
+    id: 23,
+    title: "Evening Elegance on the Rooftop",
+    image: "/blog-images/boy-23.png",
+    prompt:
+      "Create using this boy image, A handsome young man sits on the edge of a terrace at sunset, surrounded by warm festive string lights glowing in a soft glow. He is wearing a pastel pink traditional kurta, with intricate floral embroidery, which shimmers softly under the golden evening light. His expression is calm and confident as he looks into the distance. The blurred cityscape behind him adds a dreamy and peaceful atmosphere. The image captures the perfect balance of beauty, culture and serenity in a soft cinematic tone.",
+  },
+  {
+    id: 24,
+    title: "Balcony Sunset Serenity",
+    image: "/blog-images/boy-24.png",
+    prompt:
+      "Create using this image of a boy, a handsome young man sitting on the edge of a balcony with blue clouds in the sky at sunset, lit by the soft glow of warm festive string lights around him. He is wearing a pastel white traditional kurta, intricately embroidered with flowers, which shimmers softly under the golden evening light. His expression is calm and confident as he looks into the distance. The blurred cityscape behind him adds a dreamy and peaceful atmosphere. The image captures the perfect balance of beauty, culture and serenity in a soft cinematic tone.",
+  },
 ];
 
 export const couples = [
@@ -284,7 +298,21 @@ export const girls = [
     image: "/girls-image/girl-7.png",
     title: "Traditional Grace",
     prompt:
-      "Create using this boy image, A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
+      "Create using this girl image, A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
+  },
+  {
+    id: 8,
+    image: "/girls-image/girl-8.png",
+    title: "Girl Walking on the Beach",
+    prompt:
+      "Create using this girl image,A beautiful young woman walks barefoot along the shore in the golden hour, her hair gently blowing in the ocean breeze. Soft waves kiss her feet as the blue reflects off the water, creating a dreamy and peaceful atmosphere. She is wearing a flowing white dress that moves elegantly with each step. The distant horizon is illuminated in warm pastel colors, capturing a sense of freedom, tranquility, and natural beauty. ",
+  },
+  {
+    id: 9,
+    image: "/girls-image/girl-9.png",
+    title: "Girl with Sunglasses on the Beach",
+    prompt:
+      "Create using this image of a confident young woman standing on the beach, wearing stylish sunglasses, looking straight into the camera with a calm and steady expression. The ocean waves shimmer behind her in the bright daylight. She is wearing a light summer dress that matches the relaxed beach atmosphere. The scene feels modern, vibrant and cinematic - a mix of elegance and confidence with coastal charm. She is wearing elegant Islamic clothing",
   },
 ];
 
