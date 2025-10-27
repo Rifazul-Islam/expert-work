@@ -17,7 +17,7 @@ const InsitePage = ({ sections, subTitle, link, btnText }) => {
   return (
     <div className="mx-2 ">
       <h1 className="lg:text-4xl text-[24px]  text-center text-zinc-800 font-bold mb-8 mt-14 ">
-        Gemini AI Photo Prompt - {subTitle}
+        d
       </h1>
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
