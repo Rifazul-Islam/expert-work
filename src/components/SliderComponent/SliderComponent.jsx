@@ -84,7 +84,7 @@ const SliderComponent = () => {
             <img
               src={item.image}
               alt={item.alt}
-              className="md:h-68 h-60 object-cover md:w-[200px] w-[100px] mx-2 rounded-lg"
+              className="md:h-68 h-60 object-cover md:w-[200px] w-auto mx-2 rounded-lg"
             />
           </Link>
         ))}
