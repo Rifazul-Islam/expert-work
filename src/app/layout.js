@@ -19,9 +19,9 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  title: "Prompt Expert",
+  title: "Gemini AI Photo Prompts - Copy & Paste Image Ideas | Prompt Expert",
   description:
-    "Google Gemini - Best Professional Ai Photo Editors,Advanced intelligence at your fingertips, empowering you to create stunning visuals effortlessly with next-generation AI precision.",
+    "Discover thousands of ready-to-use Gemini AI photo prompts — easy to copy and paste! Create stunning, realistic, and aesthetic AI-generated images instantly with Prompt Expert.",
 };
 
 export default function RootLayout({ children }) {
