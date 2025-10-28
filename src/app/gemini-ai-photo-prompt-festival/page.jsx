@@ -8,7 +8,7 @@ const FestivalPromptPage = () => {
         sections={festivals}
         subTitle="Festival"
         description={
-          "Create stunning AI photo prompts with Gemini AI Photo Editor. Explore creative festival portrait ideas, generate realistic AI images, and design professional visual prompts effortlessly."
+          "Explore the best Gemini AI festival photo prompts — ready to copy and paste."
         }
       />
     </div>

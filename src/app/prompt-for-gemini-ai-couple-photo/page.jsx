@@ -7,7 +7,7 @@ const CouplePromptPage = () => {
         sections={couples}
         subTitle="Couple"
         description={
-          "Create stunning AI photo prompts with Gemini AI Photo Editor. Explore creative Couple portrait ideas, generate realistic AI images, and design professional visual prompts effortlessly."
+          "Find the best Gemini AI couple photo prompts — ready to copy and paste."
         }
       />
     </div>

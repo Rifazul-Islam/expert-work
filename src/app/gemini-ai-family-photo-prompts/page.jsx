@@ -8,7 +8,7 @@ const FamilyPromptPage = () => {
         sections={familys}
         subTitle="Family"
         description={
-          "Create stunning AI photo prompts with Gemini AI Photo Editor. Explore creative Family portrait ideas, generate realistic AI images, and design professional visual prompts effortlessly."
+          "Discover the best Gemini AI family photo prompts — ready to copy and paste."
         }
       />
     </div>
