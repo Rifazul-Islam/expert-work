@@ -32,7 +32,7 @@ const InsitePage = ({ sections, subTitle, link, btnText }) => {
                     />
                   </figure>
                   <div className="card-body p-2">
-                    <h2 className="card-title font-bold text-[20px] md:text-[24px]">
+                    <h2 className="card-title font-bold text-[22px] md:text-[24px]">
                       {section?.title}
                     </h2>
                     <p className="line-clamp-3">{section?.prompt}</p>
