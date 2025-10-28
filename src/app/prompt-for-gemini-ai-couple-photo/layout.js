@@ -9,11 +9,7 @@ export const metadata = {
 
     url: "https://prompt-expert.info/prompt-for-gemini-ai-couple-photo",
     siteName: "Prompt Expert",
-    images: [
-      {
-        url: errorG,
-      },
-    ],
+
     locale: "en_US",
     type: "website",
   },

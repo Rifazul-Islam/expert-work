@@ -8,11 +8,6 @@ export const metadata = {
       "Discover the best Gemini AI photo prompts for boys — ready to copy and paste! Perfect for creating stylish, aesthetic, and realistic AI-generated male photos. Get viral-ready prompt ideas instantly.",
     url: "https://prompt-expert.info/gemini-ai-photo-prompt-boy",
     siteName: "Prompt Expert",
-    images: [
-      {
-        url: errorG,
-      },
-    ],
     locale: "en_US",
     type: "website",
   },
