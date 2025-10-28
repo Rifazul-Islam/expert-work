@@ -27,9 +27,9 @@ export default function Navbar() {
 
       <Link
         onClick={() => setIsOpen(false)}
-        href="/boy-prompt"
+        href="/gemini-ai-photo-prompt-boy"
         className={`py-1.5 rounded-lg border md:border-0  pl-3 md:pl-0 ${
-          pathname === "/boy-prompt"
+          pathname === "/gemini-ai-photo-prompt-boy"
             ? "text-[#047bf8]"
             : "hover:text-[#047bf8] text-gray-700"
         }`}
@@ -39,9 +39,9 @@ export default function Navbar() {
 
       <Link
         onClick={() => setIsOpen(false)}
-        href="/girl-prompt"
+        href="/gemini-ai-photo-prompt-girl"
         className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
-          pathname === "/girl-prompt"
+          pathname === "/gemini-ai-photo-prompt-girl"
             ? "text-[#047bf8]"
             : "hover:text-[#047bf8] text-gray-700"
         }`}
@@ -51,9 +51,9 @@ export default function Navbar() {
 
       <Link
         onClick={() => setIsOpen(false)}
-        href="/couple-prompt"
+        href="/prompt-for-gemini-ai-couple-photo"
         className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
-          pathname === "/couple-prompt"
+          pathname === "/prompt-for-gemini-ai-couple-photo"
             ? "text-[#047bf8]"
             : "hover:text-[#047bf8] text-gray-700"
         }`}
@@ -63,9 +63,9 @@ export default function Navbar() {
 
       <Link
         onClick={() => setIsOpen(false)}
-        href="/family-prompt"
+        href="/gemini-ai-family-photo-prompts"
         className={`py-1.5 border md:border-0  pl-3 md:pl-0 rounded-lg ${
-          pathname === "/family-prompt"
+          pathname === "/gemini-ai-family-photo-prompts"
             ? "text-[#047bf8]"
             : "hover:text-[#047bf8] text-gray-700"
         }`}
@@ -75,9 +75,9 @@ export default function Navbar() {
 
       <Link
         onClick={() => setIsOpen(false)}
-        href="/festival-prompt"
+        href="/gemini-ai-photo-prompt-festival"
         className={`py-1.5 rounded-lg  border md:border-0  pl-3 md:pl-0 ${
-          pathname === "/festival-prompt"
+          pathname === "/gemini-ai-photo-prompt-festival"
             ? "text-[#047bf8]"
             : "hover:text-[#047bf8] text-gray-700"
         }`}
