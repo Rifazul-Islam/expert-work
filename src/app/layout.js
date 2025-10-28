@@ -31,10 +31,11 @@ export default function RootLayout({ children }) {
     <html data-theme="light" lang="en">
       <body className={` ${roboto.className} antialiased`}>
         <Navbar />
-        <GoogleTagManager gtmId="G-SLWSBTZQ8J" />
+
         {children}
         <ScrollarButton />
         <Footer />
+        <GoogleTagManager gtmId="G-SLWSBTZQ8J" />
       </body>
     </html>
   );
