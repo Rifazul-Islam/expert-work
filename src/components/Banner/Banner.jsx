@@ -32,13 +32,13 @@ function Banner() {
 
           {/* Subtitle */}
           <h2 className="text-2xl sm:text-3xl font-semibold text-gray-100 mb-6 text-balance">
-            Redefining Professional Photo Editing
+            Best Professional Photo Editing
           </h2>
 
           {/* Description */}
           <p className="text-lg sm:text-xl text-gray-200 mb-8 leading-relaxed text-balance">
-            Advanced intelligence at your fingertips, empowering you to create
-            stunning visuals effortlessly with next-generation AI precision.
+            Experience the power of smart AI that helps you create stunning
+            photos easily and quickly.
           </p>
 
           {/* Download button */}

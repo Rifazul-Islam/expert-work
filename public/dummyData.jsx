@@ -23,76 +23,84 @@ export const boys = [
   },
   {
     id: 4,
-    title: "Freedoms Breath",
-    image: "/blog-images/blog-4.png",
-    prompt:
-      " Create a photo-realistic, medium-sized image shows a man sitting comfortably on a white horse, one hand on the handlebars and leaning back slightly, looking up at the sky with a relaxed, contented smile, over a mountainside of grass swaying in the wind under a cloudy sky. His hair is gently tousled in the wind. He is wearing a textured, light gray knit sweater and light-colored trousers, the fabric naturally pleated. The background is softly blurred, showing the muted greens and browns of distant mountains and a soft, cloudy sky, emphasizing him in a moment of tranquility. The foreground is filled with tall, dry grass and reeds, blurred to create depth. The overall mood is one of peaceful reflection, freedom, and quiet contentment.",
-  },
-  {
-    id: 5,
-    title: "Teal Shadows",
-    image: "/blog-images/blog-5.png",
-    prompt:
-      "Golden hour 8k vertical: Young man leans on mountain road railing beneath a tree in dense forest. Casual pose, checkered shirt rolled sleeves, Nike tee, black cargo pants, Convers, baseball cap, Sunbeams pierce foliage, casting warm cinematic teal shadows. Soft breeze moves shirt hem, blurred bokeh background with subtle bird flight. Sharp 50mm f/1.8 focus on textures and glow. Rule of thirds, leading lines.",
-  },
-  {
-    id: 6,
-    title: "Contemplative Smoke",
-    image: "/blog-images/blog-11.png",
-    prompt:
-      "Use o rosto 100% acima da foto enviada. Transforme esta imagem em uma foto editorial de moda de um homem bonito (use o rosto de referência como a imagem enviada). Ele está de perfil, com a cabeça inclinada para trás em pose contemplativa, olhos fechados. Ele veste uma jaqueta de couro preta resistente com a gola levantada. A atmosfera está repleta de densas nuvens de fumaça colorida; uma vibrante fumaça azul-ciano entra pela esquerda, enquanto uma fumaça laranja-dourada flamejante sai. Resolução 8k.",
-  },
-  {
-    id: 7,
     title: "Foggy Morning Stroll",
     image: "/blog-images/blog-7.jpg",
     prompt:
       "Create a photo-realistic, A young man stands confidently in the middle of a misty forest pathway. He wears a dark shawl with fringes over a gray sweater, paired with black jeans and white sneakers. His hands are in his pockets, giving a calm and composed look. The tall trees on both sides form a tunnel-like depth, covered in soft morning fog. The atmosphere feels peaceful, cinematic, and slightly mysterious with teal-green tones and diffused light filtering through the trees. The photo is sharp and detailed, with a smooth bokeh background and natural posture, captured with a 50mm f/1.8 lens, full-body portrait, 8K resolution. Here is the picture based on that description.",
   },
   {
+    id: 5,
+    title: "The Gentle Glow",
+    image: "/blog-images/boy-22.png",
+    prompt:
+      "Create using this boy image, A hyper-realistic, 8K cinematic full-body portrait of a handsome young man sitting casually on a modern chair in an outdoor night setup. He wears a pastel mint green shirt and cream pants with white sneakers. Behind him glows a large neon circle wrapped in green vines and twinkling multicolor fairy lights, casting a soft, festive glow. Potted plants frame the scene on both sides, while the background fades into gentle darkness with hints of greenery. The atmosphere feels warm, modern, and celebratory, with perfect lighting that highlights his confident smile and relaxed pose.",
+  },
+  {
+    id: 6,
+    title: "Freedoms Breath",
+    image: "/blog-images/blog-4.png",
+    prompt:
+      " Create a photo-realistic, medium-sized image shows a man sitting comfortably on a white horse, one hand on the handlebars and leaning back slightly, looking up at the sky with a relaxed, contented smile, over a mountainside of grass swaying in the wind under a cloudy sky. His hair is gently tousled in the wind. He is wearing a textured, light gray knit sweater and light-colored trousers, the fabric naturally pleated. The background is softly blurred, showing the muted greens and browns of distant mountains and a soft, cloudy sky, emphasizing him in a moment of tranquility. The foreground is filled with tall, dry grass and reeds, blurred to create depth. The overall mood is one of peaceful reflection, freedom, and quiet contentment.",
+  },
+  {
+    id: 7,
+    title: "Teal Shadows",
+    image: "/blog-images/blog-5.png",
+    prompt:
+      "Golden hour 8k vertical: Young man leans on mountain road railing beneath a tree in dense forest. Casual pose, checkered shirt rolled sleeves, Nike tee, black cargo pants, Convers, baseball cap, Sunbeams pierce foliage, casting warm cinematic teal shadows. Soft breeze moves shirt hem, blurred bokeh background with subtle bird flight. Sharp 50mm f/1.8 focus on textures and glow. Rule of thirds, leading lines.",
+  },
+  {
     id: 8,
+    title: "Contemplative Smoke",
+    image: "/blog-images/blog-11.png",
+    prompt:
+      "Use o rosto 100% acima da foto enviada. Transforme esta imagem em uma foto editorial de moda de um homem bonito (use o rosto de referência como a imagem enviada). Ele está de perfil, com a cabeça inclinada para trás em pose contemplativa, olhos fechados. Ele veste uma jaqueta de couro preta resistente com a gola levantada. A atmosfera está repleta de densas nuvens de fumaça colorida; uma vibrante fumaça azul-ciano entra pela esquerda, enquanto uma fumaça laranja-dourada flamejante sai. Resolução 8k.",
+  },
+
+  {
+    id: 9,
     title: "Executive Confidence",
     image: "/blog-images/blog-2.png",
     prompt:
       "A confident businessman sitting in a luxurious modern office, wearing a grey checkered suit with a black tie, white shirt, and a gold wristwatch. He is seated at a sleek desk with a silver laptop in front of him, leather executive chair, stylish marble-patterned wall in the background, warm ambient lighting,professional and powerful atmosphere, u|tra-realistic, cinematic detail, 8k --ar 2:3 --v 5 --style 4a",
   },
   {
-    id: 9,
+    id: 10,
     title: "Relaxed Focus",
     image: "/blog-images/blog-9.png",
     prompt:
       "Keep my exact face and body features from the given picture. A hyper-realistic portrait of me sitting at a wooden table, leaning slightly forward with one arm resting on the table. I am wearing a black denim jacket with rolled-up sleeves, and inside the jacket, a white t-shirt. On my wrist, I have a smartwatch with a dark green strap. My head is tilted slightly, with one hand resting casually and comfortably on my forehead. My hair is styled, and I have a soft, confidentsmile while looking directly at the camera. The background is softly blurred, filled with natural greenery, creating a bright and lively atmosphere. Ultra HD, 8K, cinematic, professional photography style.",
   },
   {
-    id: 10,
+    id: 11,
     title: "High-Fashion Gaze",
     image: "/blog-images/blog-10.png",
     prompt:
       "Use this reference image and create a hyper-realistic, close-up portrait of a charismatic male model in a moody, editorial setting. His face is lit with sharp, contrasting beams of amber and icy blue light, highlighting the symmetry of his jawline, subtle beard stubble, and confident, piercing gaze. He wears a dark tailored jacket with a soft velvet texture, slightly unbuttoned at the collar, revealing a glimpse of a minimal chain necklace. The background fades into a deep charcoal gradient with a soft cinematic haze and delicate light flares. A hint of fog curls around his silhouette, creating a mysterious and polished atmosphere. The overall tone evokes high fashion elegance with a modern, moody edge - perfect for a luxury fashion campaign or magazine cover.",
   },
   {
-    id: 11,
+    id: 12,
     title: "Cinematic Intensity",
     image: "/blog-images/blog-12.png",
     prompt:
       "Ultra-realistic 8K portrait of a young man named Sam, standing against a deep red background. He has sharp facial features, messy styled dark hair, and a confident, slightly intense expression. He is wearing a black suit jacket over a white dress shirt with the collar slightly open, paired with a loosely knotted red striped tie. Dramatic red and black lighting highlights the contours of his face, jawline, and neck, creating a cinematic, powerful, and moody atmosphere.",
   },
   {
-    id: 12,
+    id: 13,
     title: "Peace Among the Petals",
     image: "/blog-images/boy-1.png",
     prompt:
       "A person sitting on a boat in a lotus-filled wetland, holding a bunch of fresh red water lilies. All around, vibrant red water lilies bloom across the water, creating a calm and romantic atmosphere. Clear sky, soft natural light, realistic photography style.",
   },
   {
-    id: 13,
+    id: 14,
     title: "Airport Elegance",
     image: "/blog-images/boy-13.png",
     prompt:
       "Create using this boy image, Ultra-realistic 8K portrait of a 22-year-old fit man with the same exact face as the reference photo (keep facial features identical). He stands confidently in front of an Emirates airplane at an airport with passengers boarding in a blurred background. Outfit: oversized black shirt, cargo pants, white Nike sneakers, and black round sunglasses. Holding a VIP suitcase, one hand in pocket. Cinematic natural lighting, professional realistic photo style.",
   },
   {
-    id: 14,
+    id: 15,
     title: "Beneath the Palm",
     image: "/blog-images/boy-14.png",
     prompt:
@@ -100,14 +108,14 @@ export const boys = [
   },
 
   {
-    id: 15,
+    id: 16,
     title: "Quiet Reflection",
     image: "/blog-images/boy-15.png",
     prompt:
       "Create a photo-realistic, A young man with styled black hair, wearing a tan/beige casual shirt and black pants with white sneakers, sitting thoughtfully on a weathered brick platform. He is positioned in profile, looking to the side with a contemplative expression. The background features a lush, vibrant green natural setting with blurred foliage and trees, creating a serene outdoor atmosphere. The lighting is natural and soft, highlighting the subject against the rich green bokeh background. The overall mood is calm, introspective, and peaceful, with a focus on portrait photography with nature elements",
   },
   {
-    id: 16,
+    id: 17,
     title: "Golden Hour of Love",
     image: "/blog-images/boy-16.png",
     prompt:
@@ -115,47 +123,41 @@ export const boys = [
   },
 
   {
-    id: 17,
+    id: 18,
     title: "The Modern Kurta Look",
     image: "/blog-images/boy-17.png",
     prompt:
       "Create using this boy image, A full-length realistic portrait of a confident young man standing on a green lawn surrounded by tropical palm trees. He is wearing a traditional white kurta and pajama, black shoes, a smartwatch on his wrist, and stylish dark sunglasses. The soft light of the sun shines through the palm leaves, creating a soft, bright background with natural bokeh. The man's posture is elegant and harmonious, with a calm expression and a modern traditional feel. The atmosphere is calm, cinematic, and vibrant, highlighting the harmony of nature and style.",
   },
   {
-    id: 18,
+    id: 19,
     title: "Elegance Among Roses",
     image: "/blog-images/boy-18.png",
     prompt:
       "Create using this boy image, 2/1 Ultra-HD 8K realistic photo A fair-skinned young man (reference photo) stands in a field of roses. He is wearing a white shirt, blue pants, and a wristwatch. His hair is black. The man is holding a red rose in his hand, looking intently at the camera. He is looking slightly left of center of the photo, facing the camera. In the background is a vast field of colorful roses in full bloom under a sky filled with large, fluffy clouds.",
   },
   {
-    id: 19,
+    id: 20,
     title: "Nature in Motion",
     image: "/blog-images/boy-19.png",
     prompt:
       "Create using this boy image, Ultra-realistic 8k cinematic modern hairsyle from the given picture, wearing a white olives print full shart and gray cargo pant and boost 650 shoes. Up many white bird and right hand holding one whie bird he stands casually near a blooming flower bush and striped concrete road barrier. One hand in pocket, the other slightly raised as if mid-step. Captured in soft natural sunlight with vibrant greenery, giving a candid, modern outdoor vibe.",
   },
   {
-    id: 20,
+    id: 21,
     title: "Natural Confidence",
     image: "/blog-images/boy-20.png",
     prompt:
       "Create using this boy image, A hyper-realistic outdoor portrait taken in a bright tropical garden. The man sits at a wooden table under dappled sunlight, surrounded by palm leaves and vibrant greenery. His expression is confident and relaxed, black denim jacket and smartwatch standing out against the lush background. The natural light and subtle breeze create a cinematic freshness. Ultra HD, 8K, crisp focus, bright color grading, lifestyle realism.",
   },
   {
-    id: 21,
+    id: 22,
     title: "The Luminous Gaze",
     image: "/blog-images/boy-21.png",
     prompt:
       " Create using this boy image, Ultra-realistic, 8K cinematic full-body portrait of a handsome young Indian man (using uploaded facial references) casually sitting on a modern chair in a beautifully decorated outdoor setup at night. The man is wearing a pastel soft green shirt and cream pants and white sneakers. The background is dominated by a large, bright neon ring wrapped in green vines and shimmering with colorful red lights, creating a vibrant, festive and magical atmosphere.",
   },
-  {
-    id: 22,
-    title: "The Gentle Glow",
-    image: "/blog-images/boy-22.png",
-    prompt:
-      "Create using this boy image, A hyper-realistic, 8K cinematic full-body portrait of a handsome young man sitting casually on a modern chair in an outdoor night setup. He wears a pastel mint green shirt and cream pants with white sneakers. Behind him glows a large neon circle wrapped in green vines and twinkling multicolor fairy lights, casting a soft, festive glow. Potted plants frame the scene on both sides, while the background fades into gentle darkness with hints of greenery. The atmosphere feels warm, modern, and celebratory, with perfect lighting that highlights his confident smile and relaxed pose.",
-  },
+
   {
     id: 23,
     title: "Evening Elegance on the Rooftop",
