@@ -1,4 +1,4 @@
-// import { GoogleTagManager } from "@next/third-parties/google";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 import { Montserrat, Poppins, Roboto } from "next/font/google";
 import "./globals.css";
@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
     <html data-theme="light" lang="en">
       <body className={` ${roboto.className} antialiased`}>
         <Navbar />
-        {/* <GoogleTagManager gtmId="G-J78MXKVK2X" /> */}
+        <GoogleTagManager gtmId="G-SLWSBTZQ8J" />
         {children}
         <ScrollarButton />
         <Footer />
