@@ -15,7 +15,7 @@ const CommonSection = ({ sections, subTitle, description }) => {
   };
   return (
     <div className="px-4 mx-2 bg-gray-100">
-      <h1 className="lg:text-4xl text-[24px]  text-center text-zinc-800 font-bold mb-6 pt-14 ">
+      <h1 className="lg:text-4xl text-[20px]  text-center text-zinc-800 font-bold mb-6 pt-14 ">
         Gemini AI Photo Prompt - {subTitle}
       </h1>
 
