@@ -1,10 +1,9 @@
-import { GoogleTagManager } from "@next/third-parties/google";
-
 import { Montserrat, Poppins, Roboto } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar/Navbar";
 import Footer from "@/components/Footer/Footer";
 import ScrollarButton from "@/components/ScrollarButton/ScrollarButton";
+import GoogleAnalytics from "@/components/GoogleAnalytics/GoogleAnalytics";
 
 const poppins = Poppins({
   weight: ["400", "600", "700", "900"],
@@ -35,7 +34,8 @@ export default function RootLayout({ children }) {
         {children}
         <ScrollarButton />
         <Footer />
-        <GoogleTagManager gtmId="G-SLWSBTZQ8J" />
+        {/* <GoogleTagManager gtmId="G-SLWSBTZQ8J" /> */}
+        <GoogleAnalytics />
       </body>
     </html>
   );
