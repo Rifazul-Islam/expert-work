@@ -15,7 +15,7 @@ const HomeSection = () => {
         <InsitePage
           sections={boys}
           subTitle={"Boy"}
-          link={"/boy-prompt"}
+          link={"/gemini-ai-photo-prompt-boy"}
           btnText={"All Boy Prompt"}
         />
       </div>
@@ -25,7 +25,7 @@ const HomeSection = () => {
         <InsitePage
           sections={girls}
           subTitle={"Girl"}
-          link={"/girl-prompt"}
+          link={"/gemini-ai-photo-prompt-girl"}
           btnText={"All Girl Prompt"}
         />
       </div>
@@ -36,7 +36,7 @@ const HomeSection = () => {
         <InsitePage
           sections={couples}
           subTitle={"Couple"}
-          link={"/couple-prompt"}
+          link={"/prompt-for-gemini-ai-couple-photo"}
           btnText={"All Couple Prompt"}
         />
       </div>
@@ -47,7 +47,7 @@ const HomeSection = () => {
         <InsitePage
           sections={familys}
           subTitle={"Family"}
-          link={"/family-prompt"}
+          link={"/gemini-ai-family-photo-prompts"}
           btnText={"All Family Prompt"}
         />
       </div>
@@ -56,7 +56,7 @@ const HomeSection = () => {
         <InsitePage
           sections={festivals}
           subTitle={"Festival"}
-          link={"/festival-prompt"}
+          link={"/gemini-ai-photo-prompt-festival"}
           btnText={"All Festival Prompt"}
         />
       </div>
