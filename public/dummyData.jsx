@@ -172,6 +172,29 @@ export const boys = [
     prompt:
       "Create using this image of a boy, a handsome young man sitting on the edge of a balcony with blue clouds in the sky at sunset, lit by the soft glow of warm festive string lights around him. He is wearing a pastel white traditional kurta, intricately embroidered with flowers, which shimmers softly under the golden evening light. His expression is calm and confident as he looks into the distance. The blurred cityscape behind him adds a dreamy and peaceful atmosphere. The image captures the perfect balance of beauty, culture and serenity in a soft cinematic tone.",
   },
+  {
+    id: 25,
+    title: "Standing by the Sea",
+    image: "/blog-images/boy-25.png",
+    prompt:
+      "Create using this boy image — Ultra-realistic 8K cinematic portrait of a 22-year-old fit man with the same exact facial features as the reference photo. He stands confidently on a quiet sandy beach, where soft golden waves touch his feet as he gazes into the horizon. He is wearing an oversized black shirt and charcoal cargo pants, rolled slightly at the ankles, barefoot on the sand, giving off a relaxed yet stylish coastal look. His black round sunglasses shimmer with reflections of the ocean, adding a touch of modern class. No bag or extra accessories — just pure simplicity and confidence. The warm sunset light casts a soft glow on his face, highlighting his sharp features and calm expression. The overall atmosphere is cinematic, peaceful, and deeply introspective, blending realism with emotional depth.",
+  },
+
+  {
+    id: 26,
+    title: "Looking into the Distance",
+    image: "/blog-images/boy-26.png",
+    prompt:
+      "Create using this boy image — Ultra-realistic 8K cinematic portrait of a handsome 22-year-old man, facial features identical to the reference. He stands on a wooden pier above crystal-blue water, wearing a cream-colored t-shirt, olive cargo shorts, and bare feet dangling over the edge. His black sunglasses reflect the sunlit sea as a gentle breeze moves through his hair — peaceful yet stylish.",
+  },
+
+  {
+    id: 27,
+    title: "Standing by the Sea and Looking.",
+    image: "/blog-images/boy-27.png",
+    prompt:
+      "Create using this boy image — Ultra-realistic 8K cinematic portrait of a 22-year-old fit man matching the reference photo. He stands on a quiet beach at sunrise, dressed in a light gray shirt and black joggers, barefoot in the cool morning sand. His sunglasses rest on his shirt collar as he looks toward the glowing sky, filled with purpose and peace — a perfect blend of realism and cinematic tone.",
+  },
 ];
 
 export const couples = [
