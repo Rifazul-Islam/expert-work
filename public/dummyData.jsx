@@ -195,6 +195,84 @@ export const boys = [
     prompt:
       "Create using this boy image — Ultra-realistic 8K cinematic portrait of a 22-year-old fit man matching the reference photo. He stands on a quiet beach at sunrise, dressed in a light gray shirt and black joggers, barefoot in the cool morning sand. His sunglasses rest on his shirt collar as he looks toward the glowing sky, filled with purpose and peace — a perfect blend of realism and cinematic tone.",
   },
+  {
+    id: 28,
+    title: "3D Model to Reality",
+    image: "/blog-images/boy-28.png",
+    prompt:
+      "Create using this boy image, Create an ultra-realistic photo of a 1/7-scale commercial figurine based on the characters in the picture. The figurine is placed naturally on a modern computer desk with realistic lighting and shadows. It stands on a round, transparent acrylic base with no text or logo. On the computer screen, show a realistic 3D modeling software interface displaying the creation process of the same figurine. Next to the monitor, there is a toy packaging box designed like a premium collectible figure box, printed with vibrant 2D character artwork. The overall scene should look like a real photograph captured with a high-end DSLR camera.",
+  },
+  {
+    id: 29,
+    title: "Ready for the Road",
+    image: "/blog-images/boy-29.png",
+    prompt:
+      "Create an ultra realistic, 8K resolution, high-detail cinematic image of a person sitting on a scrambler motorcycle on an empty street. Face with the face from the uploaded image, keeping the facial features exactly the same. and is wearing black sunglasses. He is dressed in a dark grey wool sweater with rolled-up sleeves, olive green cargo pants with visible seams and pocket detailing, and sturdy brown hiking boots with textured soles. His posture is slightly forward-leaning as he grips the handlebar with one hand and looks ahead thoughtfully. The motorcycle is a modern scrambler with a matte silver fuel tank featuring a visible brand logo, a compact black engine with cooling fins, shiny exhaust pipe curving from the engine, thick off-road knobby tires, and a brown leather seat with stitching details. The front suspension, disc brakes, and wires are clearly visible with realistic metallic reflections. The background is a soft, neutral-toned road surface with subtle cracks and patches giving an urban yet adventurous atmosphere. The lighting is natural daylight, soft shadows around the wheels, and the overall mood is calm, intense, and ready for adventure. Add fine details like dust particles, tire tread patterns, subtle reflections on the metallic surfaces, and realistic textures of fabric, leather, and rubber for maximum depth.",
+  },
+  {
+    id: 30,
+    title: "Golden Hour Laughter",
+    image: "/blog-images/boy-30.png",
+    prompt:
+      "Create using this boy image, Hyper-realistic overhead 9:16 close-up of myself with glasses, playfully leaning against an ivy- covered stone wall of an old countryside cottage during golden hour. I'm laughing with my head slightly tilted back, one hand brushing away a dangling vine, wearing a textured earth-tone knit sweater layered over a soft white t-shirt. The flowering vines are in full bloom with orange, magenta, and lavender hues, softly blurred in the foreground. Warm, cinematic lighting with a pastel sky glow",
+  },
+  {
+    id: 31,
+    title: "Chill Under the Lights",
+    image: "/blog-images/boy-31.png",
+    prompt:
+      "Create using this boy image,A young slim man face same as uploaded image in an outdoor café at night. He is wearing loose white Shirt, black baggy cargos. He has same dark hair, a black smartwatch on his left wrist, giving a relaxed and confident pose, lush green plants with small pink and white flowers surrounding the standing area. Warm string lights and lamps softly illuminate the background, highlighting a Cafe.",
+  },
+  {
+    id: 32,
+    title: "Waiting in the Rain",
+    image: "/blog-images/boy-32.png",
+    prompt:
+      "A person wearing an oversized black t-shirt, baggy pants, and sneakers, holding an umbrella while standing on the sidewalk, about to cross the road at a red light. Heavy rain pours down, wet pavement reflecting the streetlights. Lush green trees line the sidewalk. The scene clearly focuses on the person's face, capturing a moment of pause before crossing, with raindrops glistening around.",
+  },
+
+  {
+    id: 33,
+    title: "The Grey Jawa Moment",
+    image: "/blog-images/boy-33.png",
+    prompt:
+      "Ultra-realistic full-body shot of a stylish young man sitting confidently on a matte grey Jawa 42 bobber motorcycle under lush green trees. He has short black hair, wearing a sleek modern shirt, baggy black cargo pants, and white sneakers. One leg rests on the ground, the other on the brake or gear. His gaze is directed to the right. The bike features bold wide tires, a dynamic retro design, black frame, and a Jawa logo on the fuel tank. Focus clearly on the rider’s face, keeping it unchanged, with natural lighting highlighting the textures of the bike and his outfit.",
+  },
+  {
+    id: 34,
+    title: "Confident Glow",
+    image: "/blog-images/boy-34.png",
+    prompt:
+      "Ultra-realistic modern portrait photography of a young man, keeping all facial and body features exactly as in the reference photo. He wears a crisp white T-shirt under a sleek black jacket, accessorized with a small chain pendant around his neck. His hair remains exactly as it is. He sits confidently on a beige velvet sofa, slightly leaning back, with one hand resting lightly against his head and a subtle, relaxed smile. The background is predominantly black and red, softly brightened but minimalistic, drawing focus to the subject. Soft frontal lighting illuminates his face, making it look clear, radiant, and detailed, highlighting textures in the clothing and sofa. Style: high-resolution modern portrait photography with a cinematic, elegant feel.",
+  },
+  {
+    id: 35,
+    title: "Framed by Light",
+    image: "/blog-images/boy-35.png",
+    prompt:
+      " Ultra-realistic 8K portrait of uploaded boy with dark wavy fringe hair. Wearing a white oversized 'Expert' small logo shirt, black loose pants, and yellow slippers. Looking thoughtfully off-camera, holding a camera lens, leaning on a wall. Magenta bougainvillea branch in upper left, blurred green leaves in foreground. Flawless glowing skin, vibrant bokeh city lights background, prompt expert signature in left corner.",
+  },
+  {
+    id: 36,
+    title: "Elegance in Focus",
+    image: "/blog-images/boy-36.png",
+    prompt:
+      " A stylish young man 100% face hair and body match from uploaded image wearing a modern white shart and black jeans with white trendy sneakers, standing confidently with The watch will be on one hands in pockets, one leg crossed over the others, studio portrait with soft lighting, elegant dark background, cinematic look, professional photo editing, a large faded background portrait of the same person in black sunglasses behind him, luxury fashion style, premium magazine photoshoot vibe. Same face as the uploaded image and add a metallic text in background is Prompt-Expert",
+  },
+  {
+    id: 37,
+    title: "Café Confidence",
+    image: "/blog-images/boy-37.png",
+    prompt:
+      "Ultra-realistic 8K cinematic full-body portrait of a 16-year-old fit Asian boy sitting in front of the shopping mall stairs, just outside a stylish café. His facial features and hairstyle are exactly the same as the reference image for 100% accuracy. He wears a loose black T-shirt paired with white cargo pants and white Nike sneakers, complemented by a luxury wristwatch. Holding an iPhone casually in one hand, he exudes a confident yet relaxed vibe. The lighting is moody and cinematic, with a shallow depth of field that softly blurs the background, creating a premium, high-fashion visual atmosphere.",
+  },
+  {
+    id: 38,
+    title: "Focused in Style",
+    image: "/blog-images/boy-38.png",
+    prompt:
+      "Hyper-realistic full-body portrait of a stylish young Indian boy*, exact face from uploaded reference. Wearing a red oversized shirt, black cargo jeans, white shoes (ensure shoes are clearly visible), tousled hair, black sunglasses, and a black smartwatch. He is holding an iPhone 16 while seated comfortably at a garden table. A flower bouquet is placed beside him. He is leaning forward with elbows on his knees, phone close to his face - expressing intense yet stylish focus and a confident posture. *Show full body including shoes clearly",
+  },
 ];
 
 export const couples = [
@@ -240,6 +318,14 @@ export const couples = [
     image: "/couple-image/couple-6.png",
     prompt:
       "Create a cinematic 8K ultra-realistic portrait of a young man sitting on stone steps outdoors, during golden hour. The background should be softly blurred with glowing golden bokeh lights floating in the air. Next to him, generate a glowing holographic female figure made of soft white-blue light particles, kneeling gracefully and offering him a single red rose. The man looks at her with a gentle, emotional expression, wearing a light grey t-shirt, navy pants, and white sneakers. The lighting should be warm, dreamy, and magical — symbolizing connection between reality and fantasy. Capture depth, reflection in the eyes, and detailed texture on the steps. Use volumetric light, smooth gradients, and a calm cinematic tone.",
+  },
+
+  {
+    id: 7,
+    title: "Urban Elegance",
+    image: "/couple-image/couple-7.png",
+    prompt:
+      "Ultra-realistic full-body fashion portrait of a young man posing casually with his beautiful girlfriend against a large, modern, minimalistio background featuring a giant abstract white and black number A' design. The young man has medium-length, voluminous, wavy black hair styled neatly, a trimmed beard, and a confident yet relaxed facial expression. He is wearing an all black casual athleisure outfit: a relaxed-fit black sweatshirt and black jogger pants, paired with stylish black-and-white mixed sneakers. The girlfriend is standing beside him, stylishly dressed in a fashionable outfit (you can specify color/style), with her face partially covered by trendy sunglasses, giving a chie and confident vibe. Both are interacting naturally, exuding style and elegance.",
   },
 ];
 export const familys = [

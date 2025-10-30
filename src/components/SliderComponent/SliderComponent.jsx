@@ -89,6 +89,42 @@ const SliderComponent = () => {
       image: "/blog-images/boy-25.png",
       alt: "Blog Image 25",
     },
+    {
+      id: 15,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-33.png",
+      alt: "Blog Image 33",
+    },
+    {
+      id: 16,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-34.png",
+      alt: "Blog Image 34",
+    },
+    {
+      id: 17,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-35.png",
+      alt: "Blog Image 34",
+    },
+    {
+      id: 18,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-36.png",
+      alt: "Blog Image 34",
+    },
+    {
+      id: 19,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-37.png",
+      alt: "Blog Image 34",
+    },
+    {
+      id: 20,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-38.png",
+      alt: "Blog Image 38",
+    },
   ];
 
   return (
