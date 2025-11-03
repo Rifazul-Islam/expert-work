@@ -14,16 +14,22 @@ export default function Footer() {
       </aside>
       <nav>
         <h6 className="footer-title font-bold">Services</h6>
-        <Link href={"/boy-prompt"} className="link link-hover">
+        <Link href={"/gemini-ai-photo-prompt-boy"} className="link link-hover">
           Boys
         </Link>
-        <Link href={"/girl-prompt"} className="link link-hover">
+        <Link href={"/gemini-ai-photo-prompt-girl"} className="link link-hover">
           Girl
         </Link>
-        <Link href={"/couple-prompt"} className="link link-hover">
+        <Link
+          href={"/prompt-for-gemini-ai-couple-photo"}
+          className="link link-hover"
+        >
           Couple
         </Link>
-        <Link href={"/family-prompt"} className="link link-hover">
+        <Link
+          href={"/gemini-ai-family-photo-prompts"}
+          className="link link-hover"
+        >
           Family
         </Link>
       </nav>
