@@ -125,6 +125,18 @@ const SliderComponent = () => {
       image: "/blog-images/boy-38.png",
       alt: "Blog Image 38",
     },
+    {
+      id: 21,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-39.png",
+      alt: "Blog Image 40",
+    },
+    {
+      id: 22,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-41.png",
+      alt: "Blog Image 42",
+    },
   ];
 
   return (

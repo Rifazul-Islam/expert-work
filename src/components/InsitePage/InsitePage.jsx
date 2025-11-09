@@ -22,7 +22,7 @@ const InsitePage = ({ sections, subTitle, link, btnText }) => {
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-10">
           {sections.length <= 5
-            ? sections.map((section) => (
+            ? sections?.map((section) => (
                 <div key={section?.id} className="card bg-base-100  shadow-sm">
                   <figure className="h-[280px] overflow-hidden  pt-1 ">
                     <img

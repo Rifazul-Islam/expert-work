@@ -273,6 +273,27 @@ export const boys = [
     prompt:
       "Hyper-realistic full-body portrait of a stylish young Indian boy*, exact face from uploaded reference. Wearing a red oversized shirt, black cargo jeans, white shoes (ensure shoes are clearly visible), tousled hair, black sunglasses, and a black smartwatch. He is holding an iPhone 16 while seated comfortably at a garden table. A flower bouquet is placed beside him. He is leaning forward with elbows on his knees, phone close to his face - expressing intense yet stylish focus and a confident posture. *Show full body including shoes clearly",
   },
+  {
+    id: 39,
+    title: "Under the Evening Glow",
+    image: "/blog-images/boy-39.png",
+    prompt:
+      "Create using this boy image, A young man sitting casually on outdoor stone steps during blue hour, under a glowing street lamp. He has short styled hair, a trimmed beard, and wears a matching olive green t-shirt and pants with white sneakers. The background features soft bokeh lights and trees, creating a calm evening ambiance. The lighting is cinematic and warm, with a cozy, peaceful, and modern urban vibe.",
+  },
+  {
+    id: 40,
+    title: "Sunlit Confidence",
+    image: "/blog-images/boy-40.png",
+    prompt:
+      "Create a vibrant, high-fashion portrait using this boy's photo, showing a young man with stylish, voluminous black and highlighted hair, wearing round sunglasses. He stands leaning against a dark pillar, looking up and to the side, with a thoughtful and cool expression. His clothing is a black shirt. The background is blurred, showing a dark-colored building, perhaps a shop or cafe, in bright daylight. The lighting creates strong highlights on his hair and skin, which emphasizes the dynamism. His entire figure is visible.",
+  },
+  {
+    id: 41,
+    title: "A Dark Portrait in Blue Flames",
+    image: "/blog-images/boy-41.png",
+    prompt:
+      "A dark and moody portrait features a young man with stylish dark hair, looking down intently at a newspaper he’s holding. He’s wearing a black t-shirt and several silver chain necklaces. The newspaper, which reads “LATEST NEWS” at the top, has a section of its right page engulfed in vibrant blue flames, casting an ethereal glow. Behind him, subtle wisps of blue smoke or haze add to the atmospheric effect. The background is completely dark, ensuring the focus remains on the man and the unique fiery newspaper.",
+  },
 ];
 
 export const couples = [
