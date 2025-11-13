@@ -385,11 +385,12 @@ export const familys = [
 export const girls = [
   {
     id: 1,
-    image: "/girls-image/girl-1.png",
-    title: "A Poem in the Park",
+    image: "/girls-image/girl-10.png",
+    title: "Ultra Realistic Portrait in Pink Saree Outdoors",
     prompt:
-      " Create a photo-realistic, A beautiful young woman sits peacefully on a wooden park bench, reading a book. She is wearing a traditional blue patterned sari, a white blouse, bangles and a flower in her hair. Autumn leaves are gently falling around her, and in the background, soft sunlight is seen filtering through the trees in a quiet, green park. The atmosphere is calm, poetic and warm, the dreamy depth of the field and the natural light enhancing the soft tones and gentle expression of her face, show flower pictures.",
+      "Create using this image, Ultra-realistic outdoor portrait of my original face, standing gracefully near vibrant pink bougainvillea flowers. wearing a beautiful bright pink printed saree with golden border and a fitted white blouse with long sleeves. soft natural daylight, calm and elegant expression, looking at the flowers gently with one hand touching them. background filled with lush green leaves and blooming pink flowers, cinematic clarity and warm tones. i want exact same face as i uploaded, no alteration. 100% same ratio 9:16.",
   },
+
   {
     id: 2,
     image: "/girls-image/girl-2.png",
@@ -445,6 +446,20 @@ export const girls = [
     title: "Girl with Sunglasses on the Beach",
     prompt:
       "Create using this image of a confident young woman standing on the beach, wearing stylish sunglasses, looking straight into the camera with a calm and steady expression. The ocean waves shimmer behind her in the bright daylight. She is wearing a light summer dress that matches the relaxed beach atmosphere. The scene feels modern, vibrant and cinematic - a mix of elegance and confidence with coastal charm. She is wearing elegant Islamic clothing",
+  },
+  {
+    id: 1,
+    image: "/girls-image/girl-1.png",
+    title: "A Poem in the Park",
+    prompt:
+      " Create a photo-realistic, A beautiful young woman sits peacefully on a wooden park bench, reading a book. She is wearing a traditional blue patterned sari, a white blouse, bangles and a flower in her hair. Autumn leaves are gently falling around her, and in the background, soft sunlight is seen filtering through the trees in a quiet, green park. The atmosphere is calm, poetic and warm, the dreamy depth of the field and the natural light enhancing the soft tones and gentle expression of her face, show flower pictures.",
+  },
+  {
+    id: 11,
+    image: "/girls-image/girl-11.png",
+    title: "Grace in Bloom",
+    prompt:
+      "A young woman sitting gracefully on a wooden swing decorated with colorful flowers and green leaves, in a lush green garden during day time. she is wearing a simple elegant white kurta with white leggings, brown jutti shoes, silver jhumka earrings, and a smart watch on her left wrist. her long straight hair is open, and she has a small red bindi on her forehead. she holds one side of the floral swing rope gently with her right hand, smiling softly while looking slightly to her left. the background is softly blurred with trees and greenery. I want exact same face as i uploaded, no alteration. 100% same ratio 9:16.",
   },
 ];
 
