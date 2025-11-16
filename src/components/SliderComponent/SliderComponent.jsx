@@ -140,13 +140,13 @@ const SliderComponent = () => {
     {
       id: 23,
       link: "/gemini-ai-photo-prompt-girl",
-      image: "/blog-images/girl-10.png",
+      image: "/girls-image/girl-10.png",
       alt: "Girl Image 23",
     },
     {
       id: 24,
       link: "/gemini-ai-photo-prompt-girl",
-      image: "/blog-images/girl-11.png",
+      image: "/girls-image/girl-11.png",
       alt: "Girl Image 23",
     },
   ];
