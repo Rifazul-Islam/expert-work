@@ -481,6 +481,27 @@ export const girls = [
     prompt:
       "A stylish young woman standing confidently indoors against a vibrant red neon background with glowing angel wings made of light behind her. she has medium-length wavy hair and a natural elegant expression. she is wearing a white printed t-shirt, a black blazer, black jeans, and white sneakers. her watch is visible on her wrist. the background includes neon letters 'S' glowing in red, some green indoor plants on both sides, and red balloons on the right side. the lighting is warm and soft, enhancing the red tones and giving a cinematic, modern portrait look. full-body shot, high-quality photo, aesthetic fashion pose, indoor neon studio photography style. i want exact woman same face as uploaded, no alteration, 100%.",
   },
+  {
+    id: 14,
+    image: "/girls-image/girl-14.png",
+    title: "Floral Ethnic Wear & Gold Bangles Styling.",
+    prompt:
+      "A young woman with long, dark hair is standing on a balcony at sunset, wearing a teal blue traditional Indian dress with colorful floral patterns and yellow accents. She is smiling and holding up her hands, releasing a white dove that is carrying a red envelope in its beak. The background is softly blurred, showing an urban landscape and a vibrant sky with orange and blue tones. The woman's makeup is soft and she is wearing gold bangles. The overall mood is warm, joyful. Ratio 9:16.",
+  },
+  {
+    id: 15,
+    image: "/girls-image/girl-15.png",
+    title: "Traditional Headscarf for Women in the Desert.",
+    prompt:
+      "A stunning middle eastern woman standing in a golden desert during sunset. Wearing a traditional black abaya and a red-and-white keffiyeh wrapped elegantly around her head. Soft sunlight highlights her smooth skin and defined facial features. She has long wavy dark hair partially visible under the headscarf, expressive eyes with bold eyeliner, and a calm, confident expression while looking toward the camera. Behind her, endless sand dunes create beautiful natural patterns with shadows and warm tones. Ultra-realistic, high-detail portrait, cinematic lighting, shallow depth of field, 8k quality. Ratio 9:16.",
+  },
+  {
+    id: 16,
+    image: "/girls-image/girl-16.png",
+    title: "Luxurious Arabian Fashion Portrait.",
+    prompt:
+      "A stunning woman standing in a golden desert landscape, wearing an elegant black abaya with intricate gold embroidery, tassels, and ornate patterns. She holds a majestic falcon perched on a leather falconry glove. Soft warm sunlight highlights her flawless glowing skin, sharp facial features, and glossy brown hair. She wears luxurious gold jewelry including a forehead chain (maang-tikka style), earrings, and bracelets. The falcon looks alert and detailed with realistic feathers. Sand dunes in the background with clear blue sky. Ultra-realistic, 8K resolution, cinematic lighting, high detail, Arabian aesthetic, regal and powerful atmosphere. Ratio 9:16.",
+  },
 ];
 
 export const festivals = [
