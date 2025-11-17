@@ -348,6 +348,13 @@ export const couples = [
     prompt:
       "Ultra-realistic full-body fashion portrait of a young man posing casually with his beautiful girlfriend against a large, modern, minimalistio background featuring a giant abstract white and black number A' design. The young man has medium-length, voluminous, wavy black hair styled neatly, a trimmed beard, and a confident yet relaxed facial expression. He is wearing an all black casual athleisure outfit: a relaxed-fit black sweatshirt and black jogger pants, paired with stylish black-and-white mixed sneakers. The girlfriend is standing beside him, stylishly dressed in a fashionable outfit (you can specify color/style), with her face partially covered by trendy sunglasses, giving a chie and confident vibe. Both are interacting naturally, exuding style and elegance.",
   },
+  {
+    id: 8,
+    title: "Ultra realistic neon love portrait art",
+    image: "/couple-image/couple-8.png",
+    prompt:
+      "Create a photo-realistic, Convert the above image into ultra realistic portrait of only girl in tshirt and pant and in elegant makeup and stylish hair style. dark outdoor background. there should be full view of guy miniature glowing neon white lights standing in her hand giving flying kiss with heart shaped neon white glowing hearts flying towards her. both should look at each other side view. i want exact woman same face as i uploaded, no alteration, 100% same. ratio 9:16.",
+  },
 ];
 export const familys = [
   {
@@ -390,76 +397,89 @@ export const girls = [
     prompt:
       "Create using this image, Ultra-realistic outdoor portrait of my original face, standing gracefully near vibrant pink bougainvillea flowers. wearing a beautiful bright pink printed saree with golden border and a fitted white blouse with long sleeves. soft natural daylight, calm and elegant expression, looking at the flowers gently with one hand touching them. background filled with lush green leaves and blooming pink flowers, cinematic clarity and warm tones. i want exact same face as i uploaded, no alteration. 100% same ratio 9:16.",
   },
-
   {
     id: 2,
+    image: "/girls-image/girl-12.png",
+    title: "Realistic beauty tone studio shot",
+    prompt:
+      "Create a photo-realistic, Aesthetic portrait of a cute smiling girl wearing a black cap with a red rose embroidery, dressed in a soft lavender knitted sweater. she's posing with one hand adjusting her cap and the other hand making a mini heart gesture. background features a smooth purple gradient with soft bokeh light effects for a dreamy vibe. add natural skin glow, smooth lighting, and a clean, high-quality finish. text #Prompt-Expert written subtly at the bottom. gemini ai photo editing style, realistic beauty tone, studio portrait lighting, hd quality. i want exact girl same face as i uploaded, no alteration, 100% same. ratio 916.",
+  },
+  {
+    id: 3,
     image: "/girls-image/girl-2.png",
     title: "Serenity Among the Kash Flowers",
     prompt:
       "Create using this girl image, A beautiful young woman wearing a traditional white and red sari, adorned with a flower tiara and lotus flowers in her hair, holding a bouquet of pink lotus flowers.In the background is a soft-focus field of white Kash flowers (Kansa grass), bathed in natural, soft golden light, depicting a calm and elegant atmosphere. Realistic image, high detail, vibrant colors, There will be no color on the forehead.",
   },
   {
-    id: 3,
+    id: 4,
     image: "/girls-image/girl-3.png",
     title: "Winter Glow in Paris",
     prompt:
       "Create using this girl image, A Stylish woman with pink lipstick and minimal makeup sitting in bench and make styllish pose, wearing full matching simple jwellery a long orange trench coat, a white top black leggings, and white maching ankle boots. She has wav long brown hair flowing in the air. She is carrying a quilted white leather handbag and wearing stylish sunglesses. The full snowy night background features blurred effiel Tower and storefronts, with a chice, sophisticated atmosphere photorealistic, fashion photography.  I want same facial features as I uploaded.",
   },
   {
-    id: 4,
+    id: 5,
     image: "/girls-image/girl-4.png",
     title: "Wings of Serenity",
     prompt:
       "Create a photo-realistic, A beautiful Indian woman wearing an elegant deep red embroidered saree, standing outdoors in a misty green mountain landscape. She gently releases a white dove from her hands, her expression serene and filled with hope. The scene is captured in soft natural lighting with cinematic bokeh, showcasing highly detailed fabric textures, realistic skin tone, and intricate traditional jewelry. The image should be in 8K ultra HD, photo-realistic DSLR quality, with a shallow depth of field. Do not alter her original face — maintain realistic 8K facial details.",
   },
   {
-    id: 5,
+    id: 6,
     image: "/girls-image/girl-5.png",
     title: "Whispers of the Hills",
     prompt:
       "Create a photo-realistic, A beautiful young woman sitting outdoors on a rock with a scenic green mountain valley in the background. She has long, wavy dark hair and a soft smile, holding a small twig with leaves and red flowers near her face. She is wearing a cream-colored embroidered kurti top with three-quarter sleeves, light blue jeans with frayed hems, and white block-heeled sandals. On her wrist, she wears a watch and a black bracelet. Beside her rests a black tote bag with a blue printed design. The background features pine trees, lush greenery, and misty hills, bathed in natural daylight. The atmosphere is peaceful, serene, and aesthetic — highly detailed, photo-realistic, with soft cinematic lighting and a shallow depth of field.",
   },
   {
-    id: 6,
+    id: 7,
     image: "/girls-image/girl-6.png",
     title: "Golden Smile",
     prompt:
       "Create a photo-realistic, A joyful and candid full-body portrait of a young woman with long, dark, wavy hair, standing in shallow water at a beach or riverbank, looking over her shoulder at the viewer with a wide, happy smile. She is wearing an elegant light green or sage-colored outfit, possibly a salwar kameez or lehenga, with intricate gold embroidery and a sheer dupatta gracefully draped. She is holding the dupatta slightly, suggesting movement. Large, ornate gold earrings are visible. The water is calm and reflects the soft light of the sky, which stretches across the horizon, creating a serene and expansive natural setting. The lighting is bright and natural, enhancing the celebratory mood.",
   },
   {
-    id: 7,
+    id: 8,
     image: "/girls-image/girl-7.png",
     title: "Traditional Grace",
     prompt:
       "Create using this girl image, A full-length, vibrant portrait of a beautifully adorned young woman, striking a graceful pose, looking down and to her right with a gentle smile. Her dark hair is styled in a traditional bun, embellished with white flowers and a golden maang tikka. She is wearing a stunning yellow saree with intricate red and gold borders, featuring traditional motifs and small tassels, draped over a rich red blouse with white patterns. Both her arms are heavily adorned with numerous red and yellow bangles. She also wears a statement gold choker necklace, matching earrings, and a delicate nose ring. She stands in front of soft white drapes, with a tall vase of pink and white cherry blossom flowers to her left, creating an elegant and festive setting with soft, diffused lighting. 100 parents same face. ",
   },
   {
-    id: 8,
+    id: 9,
     image: "/girls-image/girl-8.png",
     title: "Girl Walking on the Beach",
     prompt:
       "Create using this girl image,A beautiful young woman walks barefoot along the shore in the golden hour, her hair gently blowing in the ocean breeze. Soft waves kiss her feet as the blue reflects off the water, creating a dreamy and peaceful atmosphere. She is wearing a flowing white dress that moves elegantly with each step. The distant horizon is illuminated in warm pastel colors, capturing a sense of freedom, tranquility, and natural beauty. ",
   },
   {
-    id: 9,
+    id: 10,
     image: "/girls-image/girl-9.png",
     title: "Girl with Sunglasses on the Beach",
     prompt:
       "Create using this image of a confident young woman standing on the beach, wearing stylish sunglasses, looking straight into the camera with a calm and steady expression. The ocean waves shimmer behind her in the bright daylight. She is wearing a light summer dress that matches the relaxed beach atmosphere. The scene feels modern, vibrant and cinematic - a mix of elegance and confidence with coastal charm. She is wearing elegant Islamic clothing",
   },
   {
-    id: 1,
+    id: 11,
     image: "/girls-image/girl-1.png",
     title: "A Poem in the Park",
     prompt:
       " Create a photo-realistic, A beautiful young woman sits peacefully on a wooden park bench, reading a book. She is wearing a traditional blue patterned sari, a white blouse, bangles and a flower in her hair. Autumn leaves are gently falling around her, and in the background, soft sunlight is seen filtering through the trees in a quiet, green park. The atmosphere is calm, poetic and warm, the dreamy depth of the field and the natural light enhancing the soft tones and gentle expression of her face, show flower pictures.",
   },
   {
-    id: 11,
+    id: 12,
     image: "/girls-image/girl-11.png",
     title: "Grace in Bloom",
     prompt:
       "A young woman sitting gracefully on a wooden swing decorated with colorful flowers and green leaves, in a lush green garden during day time. she is wearing a simple elegant white kurta with white leggings, brown jutti shoes, silver jhumka earrings, and a smart watch on her left wrist. her long straight hair is open, and she has a small red bindi on her forehead. she holds one side of the floral swing rope gently with her right hand, smiling softly while looking slightly to her left. the background is softly blurred with trees and greenery. I want exact same face as i uploaded, no alteration. 100% same ratio 9:16.",
+  },
+  {
+    id: 13,
+    image: "/girls-image/girl-13.png",
+    title: "Modern indoor neon studio full-body shot",
+    prompt:
+      "A stylish young woman standing confidently indoors against a vibrant red neon background with glowing angel wings made of light behind her. she has medium-length wavy hair and a natural elegant expression. she is wearing a white printed t-shirt, a black blazer, black jeans, and white sneakers. her watch is visible on her wrist. the background includes neon letters 'S' glowing in red, some green indoor plants on both sides, and red balloons on the right side. the lighting is warm and soft, enhancing the red tones and giving a cinematic, modern portrait look. full-body shot, high-quality photo, aesthetic fashion pose, indoor neon studio photography style. i want exact woman same face as uploaded, no alteration, 100%.",
   },
 ];
 
