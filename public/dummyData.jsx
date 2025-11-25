@@ -292,7 +292,14 @@ export const boys = [
     title: "A Dark Portrait in Blue Flames",
     image: "/blog-images/boy-41.png",
     prompt:
-      "A dark and moody portrait features a young man with stylish dark hair, looking down intently at a newspaper he’s holding. He’s wearing a black t-shirt and several silver chain necklaces. The newspaper, which reads “LATEST NEWS” at the top, has a section of its right page engulfed in vibrant blue flames, casting an ethereal glow. Behind him, subtle wisps of blue smoke or haze add to the atmospheric effect. The background is completely dark, ensuring the focus remains on the man and the unique fiery newspaper.",
+      "A medium-sized photo, of a young man in his early 20s, standing confidently, with a soft, heavenly mist in the background. He is wearing a comfortable, light black knit sweater and dark pants. A distinctive blue and white patterned shawl is draped elegantly over his shoulders, adding a touch of beauty. His left hand is tucked into his pocket, while his right hand gently holds the shawl. The overall lighting is soft and diffused, creating a calm and slightly mysterious atmosphere.",
+  },
+  {
+    id: 42,
+    title: "Wrapped in Calm Elegance",
+    image: "/blog-images/boy-42.png",
+    prompt:
+      "Create using this boy image, A medium-sized photo, of a young man in his early 20s, standing confidently, with a soft, heavenly mist in the background. He is wearing a comfortable, light black knit sweater and dark pants. A distinctive blue and white patterned shawl is draped elegantly over his shoulders, adding a touch of beauty. His left hand is tucked into his pocket, while his right hand gently holds the shawl. The overall lighting is soft and diffused, creating a calm and slightly mysterious atmosphere.",
   },
 ];
 
