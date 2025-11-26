@@ -301,6 +301,13 @@ export const boys = [
     prompt:
       "Create using this boy image, A medium-sized photo, of a young man in his early 20s, standing confidently, with a soft, heavenly mist in the background. He is wearing a comfortable, light black knit sweater and dark pants. A distinctive blue and white patterned shawl is draped elegantly over his shoulders, adding a touch of beauty. His left hand is tucked into his pocket, while his right hand gently holds the shawl. The overall lighting is soft and diffused, creating a calm and slightly mysterious atmosphere.",
   },
+  {
+    id: 43,
+    title: "Modern Attitude Portrait",
+    image: "/blog-images/boy-43.png",
+    prompt:
+      "Create using this boy image, Without changing my facial fealures. create a stylish, modern portrait of a young man Noor with voluminous dark sharp hair. wearing a black hodie white hood. Square rimless Sradient blue Sunglasses. singl accessorieed with a watch. giuing Attiude look. 'EP logo on Hoodie. The background is soft. minimal, and subtly blurred to emphasize a contemporary foshion-forward vibe. Cinemalic lighting. ultro-detailed. realistic textures. and a polished editorial aesthetic same face.",
+  },
 ];
 
 export const couples = [

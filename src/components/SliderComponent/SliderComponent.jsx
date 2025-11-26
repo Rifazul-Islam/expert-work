@@ -155,6 +155,12 @@ const SliderComponent = () => {
       image: "/girls-image/girl-16.png",
       alt: "Girl Image 23",
     },
+    {
+      id: 26,
+      link: "/gemini-ai-photo-prompt-boy",
+      image: "/blog-images/boy-43.png",
+      alt: "Blog Image 43",
+    },
   ];
 
   return (
