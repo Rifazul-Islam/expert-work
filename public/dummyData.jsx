@@ -308,6 +308,13 @@ export const boys = [
     prompt:
       "Create using this boy image, Without changing my facial fealures. create a stylish, modern portrait of a young man Noor with voluminous dark sharp hair. wearing a black hodie white hood. Square rimless Sradient blue Sunglasses. singl accessorieed with a watch. giuing Attiude look. 'EP logo on Hoodie. The background is soft. minimal, and subtly blurred to emphasize a contemporary foshion-forward vibe. Cinemalic lighting. ultro-detailed. realistic textures. and a polished editorial aesthetic same face.",
   },
+  {
+    id: 44,
+    title: "handsome young man",
+    image: "/blog-images/boy-44.png",
+    prompt:
+      "A stylish handsome young man (refrence image given) with a slightly massy hair, wearing a lose red & white gradient half lineing shirt and white lose pant. He is looking thoughtfully on-camera, captured in a candid, high-key cinematic outdoor portrait.Holding transparent red sunglasses, The composition is framed by a branch of vivid blue/pink/yellow bougainvillea flowers in the upper left corner and heavily blurred green leaves in the extreme foreground.depth of field, stunning soft bokeh effect, Use 100% uploaded image face Don't change the face keep facial features same.",
+  },
 ];
 
 export const couples = [
