@@ -315,6 +315,13 @@ export const boys = [
     prompt:
       "A stylish handsome young man (refrence image given) with a slightly massy hair, wearing a lose red & white gradient half lineing shirt and white lose pant. He is looking thoughtfully on-camera, captured in a candid, high-key cinematic outdoor portrait.Holding transparent red sunglasses, The composition is framed by a branch of vivid blue/pink/yellow bougainvillea flowers in the upper left corner and heavily blurred green leaves in the extreme foreground.depth of field, stunning soft bokeh effect, Use 100% uploaded image face Don't change the face keep facial features same.",
   },
+  {
+    id: 45,
+    title: "Cinematic Night Mood Portrait",
+    image: "/blog-images/boy-45.png",
+    prompt:
+      "Generate a full, vertical outdoor portrait of this boy sitting near a bright campfire in a cold forest night, facing directly toward the camera with a warm, confident smile. He is sitting close to the fire, hands stretched toward the warmth. His jacket and face are softly illuminated by the fire glow. Ember sparks floating in the air. Background is dark, smooth, and cinematic. Ultra-detailed facial texture, crisp fire lighting, deep shadows, warm tones, professional lens effect, realistic atmosphere.",
+  },
 ];
 
 export const couples = [
