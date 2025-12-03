@@ -1,5 +1,19 @@
 export const boys = [
   {
+    id: 46,
+    title: "Badminton Sports Portrait",
+    image: "/blog-images/boy-46.png",
+    prompt:
+      "Full body sports portrait of a handsome, young male badminton player standing straight on a blue badminton court surface. He is holding a racket and a shuttlecock. He is wearing a light black হুডি, black trousers, and white sneakers. The background is a soft-focus green field with a hint of sunlight. Professional sports photography style, with shallow depth of field (Bokeh), high detail, and cinematic lighting keep my face same 100% same is THIS reference image",
+  },
+  {
+    id: 47,
+    title: "Happy New Year 2026 Portrait",
+    image: "/blog-images/boy-47.png",
+    prompt:
+      "Young stylish man sitting confidently on large 'Happy New Year2026' numbers placed on a road in a beautiful park. The numbers have a futuristic black outline He is wearing a black shirt, red denim jacket, grey cargo, and blue sneakers. The background shows green trees, colorful flowers and a soft lights. The atmosphere feels modern, cinematic, and positive-symbolizing a fresh new year and new beginnings, ultra realistic, depth",
+  },
+  {
     id: 1,
     title: "Professional Edge",
     image: "/blog-images/blog-1.png",
@@ -321,13 +335,6 @@ export const boys = [
     image: "/blog-images/boy-45.png",
     prompt:
       "Generate a full, vertical outdoor portrait of this boy sitting near a bright campfire in a cold forest night, facing directly toward the camera with a warm, confident smile. He is sitting close to the fire, hands stretched toward the warmth. His jacket and face are softly illuminated by the fire glow. Ember sparks floating in the air. Background is dark, smooth, and cinematic. Ultra-detailed facial texture, crisp fire lighting, deep shadows, warm tones, professional lens effect, realistic atmosphere.",
-  },
-  {
-    id: 46,
-    title: "Badminton Sports Portrait",
-    image: "/blog-images/boy-46.png",
-    prompt:
-      "Full body sports portrait of a handsome, young male badminton player standing straight on a blue badminton court surface. He is holding a racket and a shuttlecock. He is wearing a light black হুডি, black trousers, and white sneakers. The background is a soft-focus green field with a hint of sunlight. Professional sports photography style, with shallow depth of field (Bokeh), high detail, and cinematic lighting keep my face same 100% same is THIS reference image",
   },
 ];
 
