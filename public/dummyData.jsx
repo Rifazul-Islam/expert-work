@@ -322,6 +322,13 @@ export const boys = [
     prompt:
       "Generate a full, vertical outdoor portrait of this boy sitting near a bright campfire in a cold forest night, facing directly toward the camera with a warm, confident smile. He is sitting close to the fire, hands stretched toward the warmth. His jacket and face are softly illuminated by the fire glow. Ember sparks floating in the air. Background is dark, smooth, and cinematic. Ultra-detailed facial texture, crisp fire lighting, deep shadows, warm tones, professional lens effect, realistic atmosphere.",
   },
+  {
+    id: 46,
+    title: "Badminton Sports Portrait",
+    image: "/blog-images/boy-46.png",
+    prompt:
+      "Full body sports portrait of a handsome, young male badminton player standing straight on a blue badminton court surface. He is holding a racket and a shuttlecock. He is wearing a light black হুডি, black trousers, and white sneakers. The background is a soft-focus green field with a hint of sunlight. Professional sports photography style, with shallow depth of field (Bokeh), high detail, and cinematic lighting keep my face same 100% same is THIS reference image",
+  },
 ];
 
 export const couples = [
