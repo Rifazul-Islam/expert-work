@@ -14,6 +14,13 @@ export const boys = [
       "Young stylish man sitting confidently on large 'Happy New Year2026' numbers placed on a road in a beautiful park. The numbers have a futuristic black outline He is wearing a black shirt, red denim jacket, grey cargo, and blue sneakers. The background shows green trees, colorful flowers and a soft lights. The atmosphere feels modern, cinematic, and positive-symbolizing a fresh new year and new beginnings, ultra realistic, depth",
   },
   {
+    id: 48,
+    title: "Ultra-Realistic Cinematic Portrait of a Stylish ",
+    image: "/blog-images/boy-48.png",
+    prompt:
+      "Ultra-realistic DSLR full-body portrait:20-year-old slim boy (5.8ft), reference face. Sitting on a modern chair, relaxed pose, hands casual, one in pocket, Green shirt, loose formal white pant, smart watch.Messy, iphone 17 pro in hand, trendy dark hair, Gen, smartwatch hand or sunglases Z influencer vibe. Background: I green tree and hills, natural daylight. High contrast, sharp focus, cinematic photorealistic editorial style. 100% face in the reference image.",
+  },
+  {
     id: 1,
     title: "Professional Edge",
     image: "/blog-images/blog-1.png",
