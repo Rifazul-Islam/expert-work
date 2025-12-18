@@ -21,6 +21,13 @@ export const boys = [
       "Ultra-realistic full-body portrait:20-year-old slim boy (5.8ft), reference face. Sitting on a modern chair, relaxed pose, hands casual, one in pocket, Green shirt, loose formal white pant, smart watch.Messy, iphone 17 pro in hand, trendy dark hair, Gen, smartwatch hand or  influencer vibe. Background: I green tree and hills, natural daylight. High contrast, sharp focus, cinematic photorealistic editorial style. 100% face in the reference image.",
   },
   {
+    id: 49,
+    title: "December 16 Prompt. ",
+    image: "/blog-images/boy-49.png",
+    prompt:
+      "Create using this boy image,A confident young Bangladeshi man standing proudly with arms crossed, wearing a clean white panjabi. He has a green and red headband inspired by the Bangladesh flag. Behind him, a large Bangladesh national flag is waving gracefully in the wind. The background is soft, natural greenery with shallow depth of field. His face is calm, determined, and patriotic. Natural daylight, soft cinematic lighting, sharp facial details, realistic skin texture, high resolution, professional portrait photography, patriotic mood, ultra-realistic, 4K quality.",
+  },
+  {
     id: 1,
     title: "Professional Edge",
     image: "/blog-images/blog-1.png",
