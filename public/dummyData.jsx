@@ -28,6 +28,13 @@ export const boys = [
       "Create using this boy image,A confident young Bangladeshi man standing proudly with arms crossed, wearing a clean white panjabi. He has a green and red headband inspired by the Bangladesh flag. Behind him, a large Bangladesh national flag is waving gracefully in the wind. The background is soft, natural greenery with shallow depth of field. His face is calm, determined, and patriotic. Natural daylight, soft cinematic lighting, sharp facial details, realistic skin texture, high resolution, professional portrait photography, patriotic mood, ultra-realistic, 4K quality.",
   },
   {
+    id: 50,
+    title: "16 December Prompt. ",
+    image: "/blog-images/boy-50.png",
+    prompt:
+      "Create using this boy image , A realistic, high-resolution photo, A smiling young Bangladeshi man walking through a blooming yellow mustard flower field, holding a large Bangladesh national flag on a bamboo pole. He is wearing a red and green vertical striped panjabi, black pant, and a green headband. The photo is shot from close range, framed from the knees up to the head (knee-to-head portrait), with the subject clearly in sharp focus. Behind him there are blooming yellow mustard flowers, and the background features a clear blue sky, creating a bright, uplifting rural atmosphere. Cinematic lighting. shallow depth of field, 8K quality, photorealistic style, natural colors, detailed fabric texture, professional photography look Keep my face 100% same as in the reference image",
+  },
+  {
     id: 1,
     title: "Professional Edge",
     image: "/blog-images/blog-1.png",
